@@ -1,8 +1,9 @@
 name: Fetch and Save Twitter Followers and Friends
 
 on:
-  deployment:
-    types: []
+  push:
+    branches:
+      - code
   schedule:
     - cron: '0 * * * *'
 
