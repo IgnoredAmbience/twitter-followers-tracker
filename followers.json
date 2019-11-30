@@ -45,6 +45,7 @@
   },
   {
     "created_at": "Mon Aug 10 01:32:43 +0000 2009",
+    "following": true,
     "id": 64305081,
     "id_str": "64305081",
     "name": "Border Vatican - Confine Vaticano",
@@ -65,6 +66,7 @@
   {
     "created_at": "Sun Apr 19 19:32:04 +0000 2009",
     "description": "\ud835\udd40 \ud835\udd52\ud835\udd5e \ud835\udd65\ud835\udd59\ud835\udd56 \ud835\udd3e\ud835\udd59\ud835\udd60\ud835\udd64\ud835\udd65 \ud835\udd60\ud835\udd57 \ud835\udd65\ud835\udd59\ud835\udd56 \ud835\udd39\ud835\udd60\ud835\udd63\ud835\udd55\ud835\udd56\ud835\udd63\ud835\udd4a\ud835\udd60\ud835\udd67\ud835\udd5a\ud835\udd56\ud835\udd65",
+    "following": true,
     "id": 33288828,
     "id_str": "33288828",
     "name": "Soviet Border's Ghost - \u041f\u0440\u0438\u0437\u0440\u0430\u043a \u0421\u043e\u0432\u0435\u0442\u0441\u043a\u043e\u0439 \u0413\u0440\u0430\u043d\u0438\u0446\u044b",
@@ -126,6 +128,7 @@
   {
     "created_at": "Fri Mar 06 02:11:08 +0000 2009",
     "description": "he/him/his",
+    "following": true,
     "geo_enabled": true,
     "id": 23015458,
     "id_str": "23015458",
