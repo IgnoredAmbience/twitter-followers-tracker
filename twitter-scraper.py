@@ -29,18 +29,24 @@ class TwitterScraper(DeltaScraper):
 
         return "\n".join(changes)
 
+
+def user_to_dict(user):
+    return {k: v for (k, v) in user.AsDict().items() if not k.endswith('_count')}
+
+
 class Friends(TwitterScraper):
     filepath = 'friends.json'
 
     def fetch_data(self):
-        return list(map(lambda x : x.AsDict(), self.api.GetFriends(skip_status=True)))
+        return list(map(user_to_dict, self.api.GetFriends(skip_status=True)))
 
 
 class Followers(TwitterScraper):
     filepath = 'followers.json'
 
     def fetch_data(self):
-        return list(map(lambda x : x.AsDict(), self.api.GetFollowers(skip_status=True)))
+        return list(map(user_to_dict, self.api.GetFollowers(skip_status=True)))
+
 
 if __name__ == "__main__":
     github_token = os.environ.get("GITHUB_TOKEN")
