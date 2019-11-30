@@ -2,10 +2,8 @@ from scraper import Scraper, DeltaScraper
 import os
 import twitter
 
-class Twitter(DeltaScraper):
-    owner = "IgnoredAmbience"
-    repo = "twitter-followers-tracker"
-    committer = {"name": "twitter-checker", "email": "none@example.com"}
+class TwitterScraper(DeltaScraper):
+    committer = {"name": "twitter-checker", "email": "twitter-checker@example.com"}
 
     record_key = "id_str"
     show_changes = True
@@ -31,22 +29,31 @@ class Twitter(DeltaScraper):
 
         return "\n".join(changes)
 
-class Friends(Twitter):
+
+def user_to_dict(user):
+    return {k: v for (k, v) in user.AsDict().items() if not k.endswith('_count')}
+
+
+class Friends(TwitterScraper):
     filepath = 'friends.json'
 
     def fetch_data(self):
-        return list(map(lambda x : x.AsDict(), self.api.GetFriends(skip_status=True)))
+        return list(map(user_to_dict, self.api.GetFriends(skip_status=True)))
 
-class Followers(Twitter):
+
+class Followers(TwitterScraper):
     filepath = 'followers.json'
 
     def fetch_data(self):
-        return list(map(lambda x : x.AsDict(), self.api.GetFollowers(skip_status=True)))
+        return list(map(user_to_dict, self.api.GetFollowers(skip_status=True)))
+
 
 if __name__ == "__main__":
     github_token = os.environ.get("GITHUB_TOKEN")
     if github_token is None:
         Scraper.test_mode = True
+
+    (TwitterScraper.owner, TwitterScraper.repo) = os.environ.get('GITHUB_REPOSITORY').split('/')
 
     api = twitter.Api(consumer_key=os.environ.get('TWITTER_CONSUMER_KEY'),
                       consumer_secret=os.environ.get('TWITTER_CONSUMER_SECRET'),
