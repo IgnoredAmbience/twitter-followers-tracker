@@ -5383,6 +5383,7 @@
     "default_profile": true,
     "description": "Techie and gibberish speaker from Tyneside.",
     "following": true,
+    "geo_enabled": true,
     "id": 12838,
     "id_str": "12838",
     "location": "Tyneside, UK",
