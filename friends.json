@@ -4781,7 +4781,6 @@
     "profile_sidebar_fill_color": "DBFFF0",
     "profile_text_color": "333333",
     "profile_use_background_image": true,
-    "protected": true,
     "screen_name": "jeremyburge",
     "url": "https://t.co/HkvuWkZIIJ",
     "verified": true
@@ -7599,6 +7598,7 @@
     "default_profile": true,
     "description": "HM Chief Inspector of Railways Office of Rail and Road. Interests: My family my work and the railways Writing Poetry Football Photography and Pink Floyd",
     "following": true,
+    "geo_enabled": true,
     "id": 717079089258094593,
     "id_str": "717079089258094593",
     "location": "Cambridge",
