@@ -24,7 +24,7 @@ class TwitterScraper(DeltaScraper):
         prev = old_user[key]
         next = new_user.get(key)
         if prev != next:
-            changes.append("{}: {} => {}".format(old_user['str_id'], prev, next))
+            changes.append("{}: {} => {}".format(old_user['id_str'], prev, next))
         #endfor
 
         return "\n".join(changes)
