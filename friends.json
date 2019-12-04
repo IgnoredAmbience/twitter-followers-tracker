@@ -1,5 +1,28 @@
 [
   {
+    "created_at": "Sun Aug 14 10:20:26 +0000 2011",
+    "description": "Keen to bring out the best in others.",
+    "following": true,
+    "geo_enabled": true,
+    "id": 354814017,
+    "id_str": "354814017",
+    "location": "Sussex",
+    "name": "Gordon Dudman",
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/354814017/1541367778",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1194580381191823361/4FUPoIGF_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1194580381191823361/4FUPoIGF_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "screen_name": "GordonDudman"
+  },
+  {
     "created_at": "Thu Nov 30 10:03:58 +0000 2017",
     "default_profile": true,
     "description": "The UK Rail Research and Innovation Network (UKRRIN) is a powerful collaboration between the rail industry, academia and supply chain.",
