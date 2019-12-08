@@ -1852,7 +1852,7 @@
   },
   {
     "created_at": "Sat Apr 22 13:14:06 +0000 2017",
-    "description": "Install @whotargetsme to find out who\u2019s using Facebook ads to win your vote this #GE2019. Visit https://t.co/Om4qD4s2tp for more info. Contact: press@https://t.co/Om4qD4s2tp or DM",
+    "description": "Install @whotargetsme to find out who\u2019s using Facebook ads to win your vote this #GE2019. Visit https://t.co/Om4qD4s2tp for more info. Contact: press@whotargets.me",
     "following": true,
     "geo_enabled": true,
     "id": 855771696757964800,
@@ -1870,7 +1870,7 @@
     "profile_sidebar_fill_color": "000000",
     "profile_text_color": "000000",
     "screen_name": "WhoTargetsMe",
-    "url": "https://t.co/HDPB5IVNMc",
+    "url": "https://t.co/HDPB5JdpaM",
     "verified": true
   },
   {
@@ -15731,7 +15731,7 @@
   },
   {
     "created_at": "Sun Apr 19 21:18:53 +0000 2009",
-    "description": "Writer on law and policy\n\nOwn blog: @law_and_policy\n\nAlso at @FT, @prospect_uk etc\n\n(Other stuff at @LoreAndFantasy)\n\n(Account locked when away from Twitter)",
+    "description": "Writer\n\nLinks to my stuff elsewhere but on a break from active Twitter",
     "following": true,
     "id": 33315010,
     "id_str": "33315010",
@@ -15749,6 +15749,7 @@
     "profile_sidebar_fill_color": "DAECF4",
     "profile_text_color": "663B12",
     "profile_use_background_image": true,
+    "protected": true,
     "screen_name": "davidallengreen",
     "url": "https://t.co/J4YtCGlkFD"
   },
