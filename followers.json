@@ -1980,6 +1980,7 @@
     "following": true,
     "id": 8191062,
     "id_str": "8191062",
+    "location": "London",
     "name": "Adrian Short",
     "profile_background_color": "FFFFFF",
     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
@@ -1992,7 +1993,7 @@
     "profile_sidebar_fill_color": "FFFFFF",
     "profile_text_color": "333333",
     "screen_name": "adrianshort",
-    "url": "https://t.co/vKa2hfb3ev"
+    "url": "https://t.co/Ty4TMaQQpt"
   },
   {
     "created_at": "Sat Dec 26 16:29:40 +0000 2015",
