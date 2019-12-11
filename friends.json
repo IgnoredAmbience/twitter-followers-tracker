@@ -2535,7 +2535,7 @@
   },
   {
     "created_at": "Mon Aug 17 11:52:22 +0000 2009",
-    "description": "An automated results service for General Election 2019 from BBC News.\n\nWe'll be tweeting seat totals, and results for every seat in the UK, as they come in.",
+    "description": "An automated results service for General Election 2019 from BBC News. #BBCElection\n\nWe'll be tweeting results for every seat in the UK, as they come in.",
     "following": true,
     "id": 66336739,
     "id_str": "66336739",
@@ -2553,7 +2553,7 @@
     "profile_text_color": "5A5A5A",
     "profile_use_background_image": true,
     "screen_name": "bbcelection",
-    "url": "https://t.co/vBzl7LNCCQ",
+    "url": "https://t.co/EBT6ALdqwv",
     "verified": true
   },
   {
