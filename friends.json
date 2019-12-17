@@ -9322,7 +9322,7 @@
   {
     "created_at": "Wed Dec 18 08:00:58 +0000 2013",
     "default_profile": true,
-    "description": "XKCD comic feed with images, mobile friendly links, and what-if articles. Unofficial, run by @dghubble",
+    "description": "XKCD comic feed with images and mobile friendly links. Unofficial, run by @dghubble",
     "following": true,
     "id": 2251623492,
     "id_str": "2251623492",
