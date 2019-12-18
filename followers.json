@@ -1,5 +1,25 @@
 [
   {
+    "created_at": "Mon Nov 19 23:12:29 +0000 2012",
+    "default_profile": true,
+    "description": "Used to be @socks. Use strong passwords, everyone.",
+    "following": true,
+    "id": 958855028,
+    "id_str": "958855028",
+    "name": "Stephen Gower",
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/3512329079/941033524f8329f320547ed9d82afb8b_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/3512329079/941033524f8329f320547ed9d82afb8b_normal.jpeg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "screen_name": "sjgower"
+  },
+  {
     "created_at": "Wed Nov 27 18:03:37 +0000 2013",
     "description": "\ud83d\udc0d #RepTourLondon 19/University of Hull Politics \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
     "geo_enabled": true,
