@@ -173,6 +173,7 @@
     "profile_sidebar_fill_color": "DDEEF6",
     "profile_text_color": "333333",
     "profile_use_background_image": true,
+    "protected": true,
     "screen_name": "AnneLouiseAvery",
     "url": "https://t.co/wKKDYP3BVL"
   },
@@ -6420,7 +6421,7 @@
   {
     "created_at": "Tue Oct 10 16:48:26 +0000 2017",
     "default_profile": true,
-    "description": "Tweeting bygone pictures from the Woodhead Route between Sheffield, Manchester & Wath, Electrified in 1954 and closed on the 18th July 1981. @DisusedWalking",
+    "description": "Tweeting bygone pictures from The Woodhead Route between Sheffield, Manchester & Wath, Electrified in 1954 and closed on the 18th July 1981. @DisusedWalking",
     "following": true,
     "id": 917793960730472451,
     "id_str": "917793960730472451",
