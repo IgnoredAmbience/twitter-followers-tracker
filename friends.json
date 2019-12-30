@@ -7580,7 +7580,7 @@
     "id": 324751566,
     "id_str": "324751566",
     "location": "London \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
-    "name": "flacs @ 36C3",
+    "name": "flacs",
     "profile_background_color": "1F1B1B",
     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
     "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
@@ -9352,7 +9352,7 @@
     "id": 758555881,
     "id_str": "758555881",
     "location": "Guildford/London/The Internet",
-    "name": "sleepy @36C3 \u260e\ud83c\udf0d\ud83d\udcbb\u23f0\u2728\u2728\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+    "name": "sleepy bit rot \u260e\ud83c\udf0d\ud83d\udcbb\u23f0\u2728\u2728\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
     "profile_background_color": "000000",
     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
     "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
@@ -10738,6 +10738,7 @@
     "profile_sidebar_fill_color": "DDEEF6",
     "profile_text_color": "333333",
     "profile_use_background_image": true,
+    "protected": true,
     "screen_name": "0xtentakitty"
   },
   {
