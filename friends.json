@@ -7215,6 +7215,7 @@
     "profile_sidebar_fill_color": "E6F6F9",
     "profile_text_color": "333333",
     "profile_use_background_image": true,
+    "protected": true,
     "screen_name": "AMinorMuddle"
   },
   {
@@ -9592,7 +9593,7 @@
   },
   {
     "created_at": "Mon Sep 06 12:58:21 +0000 2010",
-    "description": "Prewar Artist. Author of NEW DARK AGE. He/They.",
+    "description": "Prewar Artist. Author of NEW DARK AGE: Technology and the End of the Future. He/They.",
     "following": true,
     "id": 187512368,
     "id_str": "187512368",
