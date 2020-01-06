@@ -838,7 +838,7 @@
   {
     "created_at": "Mon Apr 22 18:15:39 +0000 2013",
     "default_profile": true,
-    "description": "Urban Design & City Planning MSc @ The Bartlett. Maps, cities, public transit, typography, plants, conservation",
+    "description": "Urban Design & City Planning MSc @ The Bartlett. Maps, cities, architecture, history, public transit, typography, plants, conservation, bikes. \ud83c\udff3\ufe0f\u200d\ud83c\udf08 he/him",
     "id": 1372758872,
     "id_str": "1372758872",
     "location": "London",
@@ -4242,28 +4242,6 @@
     "profile_text_color": "666666",
     "profile_use_background_image": true,
     "screen_name": "jme19t"
-  },
-  {
-    "created_at": "Sun May 16 18:43:19 +0000 2010",
-    "description": "Software Engineer, interested in Python & numerical methods. Cyclist, runner.",
-    "following": true,
-    "id": 144584279,
-    "id_str": "144584279",
-    "location": "Lincoln",
-    "name": "Graham Markall",
-    "profile_background_color": "131516",
-    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
-    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
-    "profile_background_tile": true,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/446740600927162369/KGq3eo9p_normal.jpeg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/446740600927162369/KGq3eo9p_normal.jpeg",
-    "profile_link_color": "009999",
-    "profile_sidebar_border_color": "EEEEEE",
-    "profile_sidebar_fill_color": "EFEFEF",
-    "profile_text_color": "333333",
-    "profile_use_background_image": true,
-    "screen_name": "gmarkall",
-    "url": "https://t.co/SPu1hDrJVE"
   },
   {
     "created_at": "Sun May 16 18:43:19 +0000 2010",
