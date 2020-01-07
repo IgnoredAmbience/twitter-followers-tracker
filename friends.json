@@ -12486,7 +12486,7 @@
   {
     "created_at": "Tue Sep 20 05:07:24 +0000 2016",
     "default_profile": true,
-    "description": "The law and policy blog of @davidallengreen",
+    "description": "The law and policy blog of @davidallengreen\n\nIndependent commentary on law, policy and constitutional issues",
     "following": true,
     "id": 778098210904612864,
     "id_str": "778098210904612864",
@@ -17298,6 +17298,27 @@
     "profile_use_background_image": true,
     "screen_name": "fellwanderers",
     "url": "https://t.co/OjHUbAO2hU"
+  },
+  {
+    "created_at": "Sat Jun 29 15:39:59 +0000 2013",
+    "default_profile": true,
+    "default_profile_image": true,
+    "following": true,
+    "geo_enabled": true,
+    "id": 1555963327,
+    "id_str": "1555963327",
+    "name": "Chris",
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "screen_name": "WhereIsKeeley"
   },
   {
     "created_at": "Sat Jun 29 15:39:59 +0000 2013",
