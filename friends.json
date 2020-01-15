@@ -2890,6 +2890,7 @@
     "profile_sidebar_border_color": "000000",
     "profile_sidebar_fill_color": "000000",
     "profile_text_color": "000000",
+    "protected": true,
     "screen_name": "HalewoodJ"
   },
   {
@@ -12978,30 +12979,6 @@
     "verified": true
   },
   {
-    "created_at": "Wed Apr 28 14:11:10 +0000 2010",
-    "description": "Mark Smith, the Man in Seat 61, travel writer & author of train travel website. https://t.co/omxtJOshVc. If you need help with train travel, drop me a line...",
-    "following": true,
-    "geo_enabled": true,
-    "id": 138054922,
-    "id_str": "138054922",
-    "location": "Quainton, Untied Kingdom",
-    "name": "The Man in Seat 61",
-    "profile_background_color": "022330",
-    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
-    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/138054922/1348416837",
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1673164031/Eurostar1-small_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1673164031/Eurostar1-small_normal.jpg",
-    "profile_link_color": "0084B4",
-    "profile_sidebar_border_color": "FFFFFF",
-    "profile_sidebar_fill_color": "C0DFEC",
-    "profile_text_color": "333333",
-    "profile_use_background_image": true,
-    "screen_name": "seatsixtyone",
-    "url": "https://t.co/X5qSbZf1TE",
-    "verified": true
-  },
-  {
     "created_at": "Tue Jun 09 10:24:51 +0000 2015",
     "description": "A tool to catch iOS and Android bugs before they ship",
     "following": true,
@@ -17304,26 +17281,6 @@
     "profile_text_color": "FAF5FA",
     "profile_use_background_image": true,
     "screen_name": "jamesgreenh"
-  },
-  {
-    "created_at": "Sun May 15 20:00:42 +0000 2011",
-    "default_profile": true,
-    "description": "Big-endian.  Like != endorsement.  All views personal, except this one.",
-    "following": true,
-    "id": 299273979,
-    "id_str": "299273979",
-    "name": "Steve - @elvum@mastodon.technology",
-    "profile_background_color": "C0DEED",
-    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_image_url": "http://pbs.twimg.com/profile_images/772907753434152960/686mkpm0_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/772907753434152960/686mkpm0_normal.jpg",
-    "profile_link_color": "1DA1F2",
-    "profile_sidebar_border_color": "C0DEED",
-    "profile_sidebar_fill_color": "DDEEF6",
-    "profile_text_color": "333333",
-    "profile_use_background_image": true,
-    "screen_name": "elvum"
   },
   {
     "created_at": "Sun May 15 20:00:42 +0000 2011",
