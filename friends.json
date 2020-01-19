@@ -17320,6 +17320,27 @@
     "screen_name": "jamesgreenh"
   },
   {
+    "created_at": "Fri May 01 15:51:02 +0000 2009",
+    "description": "Hardware, Software, and Toolchain optimisation at Arm. Principal engineer, Optimisation Team lead. Comments are mine and don't represent Arm",
+    "following": true,
+    "id": 36971364,
+    "id_str": "36971364",
+    "location": "Cambridge, England",
+    "name": "James Greenhalgh",
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/36971364/1550290726",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/863434835552985088/JSBGjy0k_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/863434835552985088/JSBGjy0k_normal.jpg",
+    "profile_link_color": "FA0A1E",
+    "profile_sidebar_border_color": "181A1E",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "FAF5FA",
+    "profile_use_background_image": true,
+    "screen_name": "jamesgreenh"
+  },
+  {
     "created_at": "Sun May 15 20:00:42 +0000 2011",
     "default_profile": true,
     "description": "Big-endian.  Like != endorsement.  All views personal, except this one.",
