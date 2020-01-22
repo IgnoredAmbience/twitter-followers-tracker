@@ -397,7 +397,7 @@
   {
     "created_at": "Wed Nov 20 15:28:35 +0000 2019",
     "default_profile": true,
-    "description": "Retired Canal & River Trust Asset Inspector. Enjoying retirement. Tweets are mainly photos of canals & waterways, old & new.",
+    "description": "Retired Canal & River Trust Asset Inspector. Enjoying retirement. Tweets are mainly photographs of canals, waterways and landscapes",
     "following": true,
     "id": 1197174829595734016,
     "id_str": "1197174829595734016",
@@ -2906,7 +2906,6 @@
     "profile_sidebar_border_color": "000000",
     "profile_sidebar_fill_color": "000000",
     "profile_text_color": "000000",
-    "protected": true,
     "screen_name": "HalewoodJ"
   },
   {
