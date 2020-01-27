@@ -19507,7 +19507,7 @@
   },
   {
     "created_at": "Fri Nov 20 12:49:35 +0000 2009",
-    "description": "Cool Unix/Linux Command Line tricks you can use in $TWITTER_CHAR_LIMIT characters or less. Here mostly to inspire all to try more. Read docs first, run later.",
+    "description": "Cool Unix/Linux Command Line tricks you can use in $TWITTER_CHAR_LIMIT characters or less. Here mostly to inspire all to try more. Read docs first, run later.\\~",
     "following": true,
     "geo_enabled": true,
     "id": 91333167,
