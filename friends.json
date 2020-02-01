@@ -971,8 +971,8 @@
     "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
     "profile_background_tile": true,
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/26604996/1352406758",
-    "profile_image_url": "http://pbs.twimg.com/profile_images/901226408269230080/eFCdh3io_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/901226408269230080/eFCdh3io_normal.jpg",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1223706477673832448/nQAjD9s7_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1223706477673832448/nQAjD9s7_normal.jpg",
     "profile_link_color": "0099B9",
     "profile_sidebar_border_color": "5ED4DC",
     "profile_sidebar_fill_color": "95E8EC",
@@ -2996,6 +2996,7 @@
     "profile_sidebar_border_color": "000000",
     "profile_sidebar_fill_color": "000000",
     "profile_text_color": "000000",
+    "protected": true,
     "screen_name": "HalewoodJ"
   },
   {
