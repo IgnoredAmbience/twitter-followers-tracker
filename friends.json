@@ -5608,6 +5608,7 @@
   },
   {
     "created_at": "Tue Nov 07 17:37:35 +0000 2006",
+    "description": "Putting strings into databases, taking them out again, and helping deal with the consequences.\n\nFounding trustee @LocalWelcome",
     "following": true,
     "geo_enabled": true,
     "id": 11689,
