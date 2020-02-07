@@ -1,5 +1,23 @@
 [
   {
+    "created_at": "Thu Feb 06 06:41:42 +0000 2020",
+    "default_profile": true,
+    "description": "Hi, I am Eric the Electrical Clearance Model Pigeon. I am a massive Katy Perry fan, when not working on the railway. \ud83d\udc26",
+    "following": true,
+    "id": 1225308324289294337,
+    "id_str": "1225308324289294337",
+    "name": "ElectricalEric",
+    "profile_background_color": "F5F8FA",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1225308679639097344/wSsEXZuh_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225308679639097344/wSsEXZuh_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "screen_name": "ElectricalEric"
+  },
+  {
     "created_at": "Sun Feb 08 13:57:19 +0000 2009",
     "description": "Mostly returns 503 because dealing with 501s is hard. Aims to make things 200 more.",
     "following": true,
