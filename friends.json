@@ -1,5 +1,23 @@
 [
   {
+    "created_at": "Sat Feb 08 10:32:38 +0000 2020",
+    "default_profile": true,
+    "description": "Using my unique avian skills to check OLE clearances & forecast risk of flashovers. Not entirely serious, pls don't base your maintenance policy on me",
+    "following": true,
+    "id": 1226091179651014656,
+    "id_str": "1226091179651014656",
+    "name": "\ud83d\udc14\ud83d\udccf\u26a1 Serge the Flashover Forecasting Chicken",
+    "profile_background_color": "F5F8FA",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1226094595894849537/Uwr8GkRF_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1226094595894849537/Uwr8GkRF_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "screen_name": "FlashoverC"
+  },
+  {
     "created_at": "Thu Oct 16 10:19:58 +0000 2008",
     "description": "EMD, urbanist",
     "following": true,
@@ -2145,7 +2163,7 @@
   },
   {
     "created_at": "Thu Aug 20 11:43:42 +0000 2009",
-    "description": "Keeper of Archives and Special Collections @uoyborthwick. Full Yorkie. Guaranteed to relieve postprandial torpor.  All views my own.",
+    "description": "Keeper of Archives and Special Collections @uoyborthwick. Guaranteed to relieve postprandial torpor. \u2018A dumpling floating in a stew of time\u2019. All views my own.",
     "following": true,
     "geo_enabled": true,
     "id": 67292445,
