@@ -5891,7 +5891,7 @@
   },
   {
     "created_at": "Tue Mar 18 11:11:10 +0000 2014",
-    "description": "Artist, event planner, social media marketer and trainee citizen journalist living in East Devon\nsometimes DJ Perfect",
+    "description": "Trainee citizen journalist\nillustrator, map-maker, event planner\n(social media for cash)\nsometimes DJ Perfect",
     "following": true,
     "geo_enabled": true,
     "id": 2396039828,
@@ -15956,7 +15956,6 @@
     "profile_sidebar_fill_color": "DAECF4",
     "profile_text_color": "663B12",
     "profile_use_background_image": true,
-    "protected": true,
     "screen_name": "davidallengreen",
     "url": "https://t.co/J4YtCGlkFD"
   },
