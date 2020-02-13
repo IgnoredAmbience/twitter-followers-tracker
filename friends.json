@@ -13256,11 +13256,12 @@
   },
   {
     "created_at": "Tue May 25 05:42:56 +0000 2010",
-    "description": "Discover and share beer, breweries, and bars with your friends.",
+    "description": "Discover and share beer, breweries, and bars with your friends. Free app for IOS and Android.",
     "following": true,
     "geo_enabled": true,
     "id": 147845476,
     "id_str": "147845476",
+    "location": "Wilmington, NC",
     "name": "Untappd",
     "profile_background_color": "9AE4E8",
     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
