@@ -12315,9 +12315,8 @@
     "profile_sidebar_border_color": "000000",
     "profile_sidebar_fill_color": "BDBDBD",
     "profile_text_color": "1E1E2B",
-    "screen_name": "geofftech",
-    "url": "https://t.co/8KnsD78wRf",
-    "verified": true
+    "screen_name": "geoffldn",
+    "url": "https://t.co/8KnsD78wRf"
   },
   {
     "created_at": "Fri Sep 04 12:30:39 +0000 2009",
@@ -16039,6 +16038,7 @@
     "profile_sidebar_fill_color": "DAECF4",
     "profile_text_color": "663B12",
     "profile_use_background_image": true,
+    "protected": true,
     "screen_name": "davidallengreen",
     "url": "https://t.co/J4YtCGlkFD"
   },
