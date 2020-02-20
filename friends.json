@@ -8629,6 +8629,24 @@
     "screen_name": "randomjunk"
   },
   {
+    "created_at": "Tue Feb 17 12:53:44 +0000 2009",
+    "following": true,
+    "id": 21085944,
+    "id_str": "21085944",
+    "name": "Dave",
+    "profile_background_color": "C6E2EE",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/79210343/Snow-Banana_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/79210343/Snow-Banana_normal.jpg",
+    "profile_link_color": "1F98C7",
+    "profile_sidebar_border_color": "C6E2EE",
+    "profile_sidebar_fill_color": "DAECF4",
+    "profile_text_color": "663B12",
+    "profile_use_background_image": true,
+    "screen_name": "randomjunk"
+  },
+  {
     "created_at": "Sun Sep 14 17:00:26 +0000 2008",
     "description": "Engineering professor. Infrastructure, nature, education, language, gender, intersections. She/her/hers. All enthusiasm is 100% genuine. I block mansplainers.",
     "following": true,
@@ -14106,7 +14124,7 @@
     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
     "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
     "profile_background_tile": true,
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/355662004/1581860633",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/355662004/1582220817",
     "profile_image_url": "http://pbs.twimg.com/profile_images/995647799151747074/PSTVPXU9_normal.jpg",
     "profile_image_url_https": "https://pbs.twimg.com/profile_images/995647799151747074/PSTVPXU9_normal.jpg",
     "profile_link_color": "94D487",
