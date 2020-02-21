@@ -11725,7 +11725,7 @@
   },
   {
     "created_at": "Sat Mar 03 23:30:07 +0000 2012",
-    "description": "Failure. Laid back. Lazy. Sleeper. Cynic. Few GRs; little respect. Retweets don't = endorsements, except when they suit you. directionoftravel@gmail.com.",
+    "description": "Failure. Laid back. Lazy. Sleeper. Cynic. GRs with little respect. Retweets don't = endorsements, except when they suit you. directionoftravel@gmail.com.",
     "following": true,
     "geo_enabled": true,
     "id": 513722172,
@@ -17919,12 +17919,12 @@
   },
   {
     "created_at": "Sat Aug 30 14:49:06 +0000 2008",
-    "description": "Social geographer at the University of Sydney writing a book about people preparing for the end of the world... from a bunker.",
+    "description": "I'm a social geographer writing a book about people preparing for the end of the world... from a bunker.",
     "following": true,
     "geo_enabled": true,
     "id": 16055077,
     "id_str": "16055077",
-    "location": "Sydney, New South Wales",
+    "location": "Los Angeles, California",
     "name": "Bradley L Garrett",
     "profile_background_color": "1A1B1F",
     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
