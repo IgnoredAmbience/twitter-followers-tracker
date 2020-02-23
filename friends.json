@@ -14096,7 +14096,7 @@
   },
   {
     "created_at": "Mon Aug 15 18:07:52 +0000 2011",
-    "description": "Connect-Collaborate-Coordinate  \u24c2\ufe0f   Passion-Ethics-Teamwork              \nRail Emergency ? \ud83d\udcde 03457 114 141",
+    "description": "Connect-Collaborate-Coordinate  \u24c2\ufe0f   Passion-Ethics-Teamwork",
     "following": true,
     "geo_enabled": true,
     "id": 355662004,
@@ -16034,7 +16034,6 @@
     "profile_sidebar_fill_color": "DAECF4",
     "profile_text_color": "663B12",
     "profile_use_background_image": true,
-    "protected": true,
     "screen_name": "davidallengreen",
     "url": "https://t.co/J4YtCGlkFD"
   },
