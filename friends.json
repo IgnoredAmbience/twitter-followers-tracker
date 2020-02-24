@@ -1,23 +1,5 @@
 [
   {
-    "created_at": "Sat Oct 21 16:09:11 +0000 2017",
-    "default_profile": true,
-    "following": true,
-    "id": 921770348487593984,
-    "id_str": "921770348487593984",
-    "name": "Hourly Wolves",
-    "profile_background_color": "F5F8FA",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/921770348487593984/1508602377",
-    "profile_image_url": "http://pbs.twimg.com/profile_images/921770728273297409/nOZaHkbk_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/921770728273297409/nOZaHkbk_normal.jpg",
-    "profile_link_color": "1DA1F2",
-    "profile_sidebar_border_color": "C0DEED",
-    "profile_sidebar_fill_color": "DDEEF6",
-    "profile_text_color": "333333",
-    "profile_use_background_image": true,
-    "screen_name": "hourlywolvesbot"
-  },
-  {
     "created_at": "Wed May 09 12:29:49 +0000 2018",
     "default_profile": true,
     "description": "Totally unofficial account for The National Archives Pocket Park. Follow for wildlife images including geese, swans and ducks etc",
