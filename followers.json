@@ -105,7 +105,7 @@
   },
   {
     "created_at": "Sun Feb 08 13:57:19 +0000 2009",
-    "description": "Mostly returns 503 because dealing with 501s is hard. Aims to make things 200 more.",
+    "description": "Returns 503 because dealing with 501s is hard. Aims to make things 200 more.\nWorld record holder in some weird niche tech things that shouldn't have records.",
     "following": true,
     "geo_enabled": true,
     "id": 20367467,
