@@ -1,5 +1,24 @@
 [
   {
+    "created_at": "Tue Feb 25 12:46:05 +0000 2020",
+    "default_profile": true,
+    "description": "We're the research team of the @railwaymuseum - working in partnership with the University of York and other academic friends to share exciting new research!",
+    "following": true,
+    "id": 1232285594006454272,
+    "id_str": "1232285594006454272",
+    "name": "Institute of Railway Studies",
+    "profile_background_color": "F5F8FA",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1232285594006454272/1582635353",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1232285786520813568/APTThTNo_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1232285786520813568/APTThTNo_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "screen_name": "railway_studies"
+  },
+  {
     "created_at": "Fri Aug 08 09:54:50 +0000 2014",
     "default_profile": true,
     "description": "One Owl A Day.",
