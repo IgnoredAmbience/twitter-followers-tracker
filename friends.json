@@ -13919,17 +13919,13 @@
   },
   {
     "created_at": "Tue Feb 16 14:45:59 +0000 2016",
-    "description": "\ud83d\udc4b Welcome to our official @TfL feed for news about #Elizabethline \ud83d\udc51",
     "following": true,
-    "geo_enabled": true,
     "id": 4919657830,
     "id_str": "4919657830",
-    "location": "London, England",
-    "name": "Elizabeth line \ud83d\udc51",
+    "name": "Elizabeth line",
     "profile_background_color": "000000",
     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
     "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/4919657830/1498149668",
     "profile_image_url": "http://pbs.twimg.com/profile_images/702157324820078593/FAvM1nwC_normal.png",
     "profile_image_url_https": "https://pbs.twimg.com/profile_images/702157324820078593/FAvM1nwC_normal.png",
     "profile_link_color": "6C006C",
@@ -13937,7 +13933,6 @@
     "profile_sidebar_fill_color": "000000",
     "profile_text_color": "000000",
     "screen_name": "elizabethline",
-    "url": "https://t.co/PoFtK9JxJC",
     "verified": true
   },
   {
