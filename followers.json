@@ -4411,7 +4411,7 @@
   },
   {
     "created_at": "Sun Dec 07 16:02:07 +0000 2008",
-    "description": "I'm not a beautiful and unique snowflake.",
+    "description": "#FF00FF",
     "following": true,
     "id": 17942590,
     "id_str": "17942590",
@@ -4427,8 +4427,7 @@
     "profile_sidebar_border_color": "FFFFFF",
     "profile_sidebar_fill_color": "DDEEF6",
     "profile_text_color": "05739F",
-    "screen_name": "petrh",
-    "url": "http://t.co/UUBxqpmUUu"
+    "screen_name": "petrh"
   },
   {
     "created_at": "Sun Mar 21 20:15:18 +0000 2010",
