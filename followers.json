@@ -523,27 +523,6 @@
     "screen_name": "willmacqueen"
   },
   {
-    "created_at": "Sun Sep 29 17:59:04 +0000 2013",
-    "default_profile": true,
-    "description": "Power Systems engineer, passionate with Technology, avid supporter of the Energy Transition, hobbyist chef, booklover, runner and traveler.",
-    "id": 1917777229,
-    "id_str": "1917777229",
-    "location": "Utrecht, Nederland",
-    "name": "Thanos Pap",
-    "profile_background_color": "C0DEED",
-    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1917777229/1380478536",
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1203822127780159488/EiSavagp_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1203822127780159488/EiSavagp_normal.jpg",
-    "profile_link_color": "1DA1F2",
-    "profile_sidebar_border_color": "C0DEED",
-    "profile_sidebar_fill_color": "DDEEF6",
-    "profile_text_color": "333333",
-    "profile_use_background_image": true,
-    "screen_name": "ThanosPapaD"
-  },
-  {
     "created_at": "Wed Sep 14 06:40:32 +0000 2016",
     "description": "Noisy victim to #electrification #RailwayUpgradePlan. Indulging in #FootbridgePorn since 2016. Centre of the universe where they aren't #PuttingPassengersFirst",
     "geo_enabled": true,
@@ -1920,7 +1899,7 @@
     "id": 18518226,
     "id_str": "18518226",
     "location": "South Norwood The Lake District",
-    "name": "grey wolf",
+    "name": "mutant wolf spider",
     "profile_background_color": "7D8695",
     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
     "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
@@ -1932,7 +1911,8 @@
     "profile_sidebar_fill_color": "A9C2E0",
     "profile_text_color": "122430",
     "profile_use_background_image": true,
-    "screen_name": "travelling_wolf"
+    "screen_name": "travelling_wolf",
+    "url": "https://t.co/NJzBDhVCPT"
   },
   {
     "created_at": "Sun Apr 05 07:41:04 +0000 2009",
