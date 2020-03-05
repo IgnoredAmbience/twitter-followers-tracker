@@ -6992,7 +6992,7 @@
   {
     "created_at": "Tue Apr 24 09:27:15 +0000 2018",
     "default_profile": true,
-    "description": "We\u2019re opening up bus data across England from 2020 to help improve journeys for passengers. So for your next journey...take the bus! #busopendata #MaaS \ud83d\ude8c\ud83d\udcf1\ud83d\ude0a",
+    "description": "We\u2019re opening up bus data across England from 2020 to improve journeys for passengers. So next time...take the bus! #busopendata #MaaS #LoveYourBus \ud83d\ude8c\ud83d\udcf1\ud83d\ude0a",
     "following": true,
     "id": 988710952479739906,
     "id_str": "988710952479739906",
@@ -21202,7 +21202,8 @@
     "profile_sidebar_fill_color": "DDEEF6",
     "profile_text_color": "333333",
     "profile_use_background_image": true,
-    "screen_name": "nullmodem"
+    "screen_name": "nullmodem",
+    "url": "https://t.co/ZS9rZAMbiY"
   },
   {
     "created_at": "Sat Jan 15 11:45:52 +0000 2011",
