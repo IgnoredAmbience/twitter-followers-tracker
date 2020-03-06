@@ -1426,7 +1426,7 @@
   },
   {
     "created_at": "Wed May 10 21:51:03 +0000 2017",
-    "description": "The fun and frolics of a track teddy, the alter-ego of Dan the rail man. All views are completely made up and don't represent that of my employer.",
+    "description": "The fun and frolics of a track teddy, the alter-ego of Dan the rail man. All views are completely made up",
     "following": true,
     "geo_enabled": true,
     "id": 862424772705169408,
@@ -1443,8 +1443,7 @@
     "profile_sidebar_border_color": "000000",
     "profile_sidebar_fill_color": "000000",
     "profile_text_color": "000000",
-    "screen_name": "TrackTeddy",
-    "url": "https://t.co/od4aWhlCqu"
+    "screen_name": "TrackTeddy"
   },
   {
     "created_at": "Sun Oct 29 19:56:54 +0000 2017",
