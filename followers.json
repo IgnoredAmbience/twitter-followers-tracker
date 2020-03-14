@@ -5507,7 +5507,7 @@
     "geo_enabled": true,
     "id": 17018729,
     "id_str": "17018729",
-    "location": "Stratford, London",
+    "location": "London",
     "name": "William Dangerfield",
     "profile_background_color": "C0DEED",
     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
@@ -5519,8 +5519,7 @@
     "profile_sidebar_fill_color": "DDEEF6",
     "profile_text_color": "333333",
     "profile_use_background_image": true,
-    "screen_name": "willdangerfield",
-    "url": "http://t.co/ktDKiuYNjK"
+    "screen_name": "willdangerfield"
   },
   {
     "created_at": "Tue Sep 22 10:46:48 +0000 2009",
