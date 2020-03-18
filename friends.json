@@ -5016,27 +5016,6 @@
     "screen_name": "CursedArchitect"
   },
   {
-    "created_at": "Wed Jul 27 23:50:38 +0000 2016",
-    "default_profile": true,
-    "description": "Heathrow Rail Operation and Maintenance team for the Terminal 5 track transit system , all feedback welcomed to improve our service.",
-    "following": true,
-    "id": 758449550164160512,
-    "id_str": "758449550164160512",
-    "location": "Hounslow, London",
-    "name": "Heathrow T5 transit",
-    "profile_background_color": "F5F8FA",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/758449550164160512/1469664166",
-    "profile_image_url": "http://pbs.twimg.com/profile_images/759503483066343424/I8afMP5F_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/759503483066343424/I8afMP5F_normal.jpg",
-    "profile_link_color": "1DA1F2",
-    "profile_sidebar_border_color": "C0DEED",
-    "profile_sidebar_fill_color": "DDEEF6",
-    "profile_text_color": "333333",
-    "profile_use_background_image": true,
-    "screen_name": "T5Transit",
-    "url": "https://t.co/BwAMefYYvB"
-  },
-  {
     "created_at": "Sat Feb 07 17:27:58 +0000 2009",
     "description": "Python developer. Fond of tea, naps, and maps, but a grumpy sod who doesn't like fun. Also on Twitter as @blech.",
     "following": true,
@@ -21740,7 +21719,7 @@
   },
   {
     "created_at": "Sun Jan 24 19:03:03 +0000 2010",
-    "description": "Radio Broadcast engineer by trade; Trustee and head engineer of mark4media (the home of New Wine FM). I also like trains and I take photos. Sometimes.",
+    "description": "Operations Engineer at BBC; Trustee and head engineer of mark4media (the home of New Wine FM). I also like trains and I take photos. Sometimes.",
     "following": true,
     "geo_enabled": true,
     "id": 108071837,
