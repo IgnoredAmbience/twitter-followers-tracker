@@ -111,7 +111,8 @@
     "profile_sidebar_fill_color": "000000",
     "profile_text_color": "000000",
     "screen_name": "trvrb",
-    "url": "http://t.co/zOjqOokDaV"
+    "url": "http://t.co/zOjqOokDaV",
+    "verified": true
   },
   {
     "created_at": "Sun Sep 25 04:16:17 +0000 2016",
