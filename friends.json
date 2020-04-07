@@ -2298,25 +2298,6 @@
     "verified": true
   },
   {
-    "created_at": "Tue Sep 03 18:34:30 +0000 2019",
-    "default_profile": true,
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Parodum.",
-    "following": true,
-    "id": 1168955332183375873,
-    "id_str": "1168955332183375873",
-    "name": "Clippy Rees-Mogg",
-    "profile_background_color": "F5F8FA",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1168955332183375873/1567893969",
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1168956379010404353/eIjCGOdS_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1168956379010404353/eIjCGOdS_normal.jpg",
-    "profile_link_color": "1DA1F2",
-    "profile_sidebar_border_color": "C0DEED",
-    "profile_sidebar_fill_color": "DDEEF6",
-    "profile_text_color": "333333",
-    "profile_use_background_image": true,
-    "screen_name": "ClippyReesMogg"
-  },
-  {
     "created_at": "Mon Mar 14 17:00:56 +0000 2011",
     "description": "We are British Transport Police. Don't report crime here; #TextBTP on 61016, call 0800 40 50 40, or 999 in an emergency.",
     "following": true,
