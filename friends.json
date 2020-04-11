@@ -14621,7 +14621,7 @@
   },
   {
     "created_at": "Mon Feb 07 16:43:14 +0000 2011",
-    "description": "That railway history chap. TV presenter, historian, \u201cmodel village expert\u201d (Wait! Please come back?) & Travel Editor at Trainline. Personal account.\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+    "description": "That railway history chap. Broadcaster, historian, Travel Editor at Trainline. Personal account\ud83c\udff3\ufe0f\u200d\ud83c\udf08. TV \u201cThe Architecture The Railways Built\u201d starts 28 April!",
     "following": true,
     "geo_enabled": true,
     "id": 248741839,
@@ -16535,6 +16535,7 @@
     "profile_sidebar_fill_color": "DAECF4",
     "profile_text_color": "663B12",
     "profile_use_background_image": true,
+    "protected": true,
     "screen_name": "davidallengreen",
     "url": "https://t.co/J4YtCGlkFD"
   },
