@@ -7122,7 +7122,6 @@
     "created_at": "Sat Jun 06 16:49:26 +0000 2009",
     "description": "VoIP, Gadgets, Radio, Stuff. \n\n2E0SIP\n\nTweets are my own and should never be taken seriously",
     "following": true,
-    "geo_enabled": true,
     "id": 45165143,
     "id_str": "45165143",
     "name": "Matthew Harrold",
@@ -7135,6 +7134,7 @@
     "profile_sidebar_border_color": "000000",
     "profile_sidebar_fill_color": "000000",
     "profile_text_color": "000000",
+    "protected": true,
     "screen_name": "MatthewHarrold",
     "url": "https://t.co/fxqDu60ifg"
   },
