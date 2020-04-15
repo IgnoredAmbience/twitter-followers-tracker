@@ -1652,7 +1652,6 @@
     "profile_sidebar_fill_color": "252429",
     "profile_text_color": "666666",
     "profile_use_background_image": true,
-    "protected": true,
     "screen_name": "alexure81"
   },
   {
@@ -2680,12 +2679,12 @@
   },
   {
     "created_at": "Tue Jul 20 14:04:12 +0000 2010",
-    "description": "Hey does twitter do newlines in bios yet\nHe/him.",
+    "description": "funk enjoyer; computer destroyer.\nhe/him.",
     "following": true,
     "id": 168671025,
     "id_str": "168671025",
     "location": "Cambridge, England",
-    "name": "Sam W",
+    "name": "Socially Distant Samw",
     "profile_background_color": "F7F0F2",
     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
     "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
@@ -2698,8 +2697,7 @@
     "profile_sidebar_fill_color": "7D2F42",
     "profile_text_color": "4F4047",
     "profile_use_background_image": true,
-    "screen_name": "sudoreboot",
-    "url": "https://t.co/NDOCy2kaKT"
+    "screen_name": "sudoreboot"
   },
   {
     "created_at": "Sat Apr 12 11:34:23 +0000 2008",
