@@ -4692,7 +4692,6 @@
     "profile_sidebar_fill_color": "252429",
     "profile_text_color": "666666",
     "profile_use_background_image": true,
-    "protected": true,
     "screen_name": "alexure81"
   },
   {
@@ -10510,12 +10509,12 @@
   },
   {
     "created_at": "Tue Jul 20 14:04:12 +0000 2010",
-    "description": "Hey does twitter do newlines in bios yet\nHe/him.",
+    "description": "funk enjoyer; computer destroyer.\nhe/him.",
     "following": true,
     "id": 168671025,
     "id_str": "168671025",
     "location": "Cambridge, England",
-    "name": "Sam W",
+    "name": "Socially Distant Samw",
     "profile_background_color": "F7F0F2",
     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
     "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
@@ -10528,8 +10527,7 @@
     "profile_sidebar_fill_color": "7D2F42",
     "profile_text_color": "4F4047",
     "profile_use_background_image": true,
-    "screen_name": "sudoreboot",
-    "url": "https://t.co/NDOCy2kaKT"
+    "screen_name": "sudoreboot"
   },
   {
     "created_at": "Sat Jun 18 05:57:37 +0000 2016",
@@ -17291,6 +17289,28 @@
     "profile_use_background_image": true,
     "screen_name": "TinyToCS",
     "url": "http://t.co/mNg6wGn3HB"
+  },
+  {
+    "created_at": "Thu Sep 18 10:38:13 +0000 2014",
+    "default_profile": true,
+    "description": "Subject Librarian for Aeronautics, Computing, Electrical and Electronic Engineering @imperiallibrary",
+    "following": true,
+    "geo_enabled": true,
+    "id": 2816821897,
+    "id_str": "2816821897",
+    "location": "Imperial College London",
+    "name": "Angela Goldfinch@IC",
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/512962240777953280/eTwHDg9t_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/512962240777953280/eTwHDg9t_normal.jpeg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "screen_name": "AngelaICLib"
   },
   {
     "created_at": "Thu Sep 18 10:38:13 +0000 2014",
