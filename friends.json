@@ -6052,12 +6052,12 @@
   {
     "created_at": "Thu May 13 10:12:56 +0000 2010",
     "default_profile": true,
-    "description": "Public transit planning and policy consultant (https://t.co/QLm7ODr7DB), author of https://t.co/dQ5Hd1yeIY and the book Human Transit (Island Press, 2011).",
+    "description": "Public transit planning and policy consultant (https://t.co/QLm7ODIIv9), author of https://t.co/dQ5Hd1PPAw and the book Human Transit (Island Press, 2011).",
     "following": true,
     "geo_enabled": true,
     "id": 143390584,
     "id_str": "143390584",
-    "location": "Portland when not traveling",
+    "location": "Portland, Oregon, or traveling",
     "name": "Jarrett Walker",
     "profile_background_color": "C0DEED",
     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
@@ -16625,6 +16625,7 @@
     "profile_sidebar_fill_color": "DAECF4",
     "profile_text_color": "663B12",
     "profile_use_background_image": true,
+    "protected": true,
     "screen_name": "davidallengreen",
     "url": "https://t.co/J4YtCGlkFD"
   },
