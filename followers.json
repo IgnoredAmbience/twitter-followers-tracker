@@ -1480,6 +1480,7 @@
     "following": true,
     "id": 40422510,
     "id_str": "40422510",
+    "location": "London, England",
     "name": "Anoushka",
     "profile_background_color": "C0DEED",
     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
@@ -3545,7 +3546,7 @@
   },
   {
     "created_at": "Sun Jul 03 16:33:11 +0000 2011",
-    "description": "Queen\u2019s Scout. REN Youth Commissioner. UX Designer and Front End Developer. @UniKent alumni. Lover of Tea, Trains and a good waistcoat.",
+    "description": "Queen\u2019s Scout. REN ADC. UX Designer and Front End Developer. @UniKent alumni. Lover of Tea, Trains and a good waistcoat.",
     "following": true,
     "geo_enabled": true,
     "id": 328566545,
