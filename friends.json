@@ -12986,26 +12986,6 @@
     "screen_name": "josephfcox"
   },
   {
-    "created_at": "Thu Mar 31 12:29:00 +0000 2011",
-    "default_profile": true,
-    "description": "journalist covering hackers/crime/privacy for @motherboard. Signal \u260e\ufe0f+44 20 8133 5190. Wickr \ud83d\udcf3 josephcox. XMPP \ud83d\udd11 jfcox@jabber.ccc.de \ud83d\udce8joseph.cox@vice.com",
-    "following": true,
-    "id": 274991683,
-    "id_str": "274991683",
-    "name": "Joseph Cox",
-    "profile_background_color": "C0DEED",
-    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_image_url": "http://pbs.twimg.com/profile_images/938479632805965825/Butw3_cP_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/938479632805965825/Butw3_cP_normal.jpg",
-    "profile_link_color": "1DA1F2",
-    "profile_sidebar_border_color": "C0DEED",
-    "profile_sidebar_fill_color": "DDEEF6",
-    "profile_text_color": "333333",
-    "profile_use_background_image": true,
-    "screen_name": "josephfcox"
-  },
-  {
     "created_at": "Mon Feb 20 17:09:14 +0000 2017",
     "default_profile": true,
     "description": "Riding to fame and fortune on the long, golden coattails of King Donaeld the Unready. Profile tapestry by Wulfgar the Bard.",
@@ -16636,7 +16616,6 @@
     "profile_sidebar_fill_color": "DAECF4",
     "profile_text_color": "663B12",
     "profile_use_background_image": true,
-    "protected": true,
     "screen_name": "davidallengreen",
     "url": "https://t.co/J4YtCGlkFD"
   },
