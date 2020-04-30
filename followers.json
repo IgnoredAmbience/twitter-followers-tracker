@@ -1369,7 +1369,7 @@
   },
   {
     "created_at": "Wed Feb 23 00:08:11 +0000 2011",
-    "description": "Old Sidcotian, member of congregation at Bristol Cathedral, cat person and heritage rail enthusiast. Hobbies: Radio and photography. All views (not RTs) my own.",
+    "description": "Old Sidcotian, member of congregation at Bristol Cathedral, cat person and heritage rail enthusiast. Hobbies: Radio and computing. All views are my own.",
     "following": true,
     "id": 256257113,
     "id_str": "256257113",
@@ -4322,7 +4322,7 @@
   },
   {
     "created_at": "Sun May 16 18:43:19 +0000 2010",
-    "description": "Software Engineer, interested in Python & numerical methods. Cyclist, runner.",
+    "description": "Software Engineer, interested in Python & numerical methods. Mostly working on @numba_jit for CUDA these days. Cyclist, runner.",
     "following": true,
     "id": 144584279,
     "id_str": "144584279",
