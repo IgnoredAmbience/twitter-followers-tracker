@@ -10576,6 +10576,7 @@
   {
     "created_at": "Tue Feb 17 23:36:03 +0000 2009",
     "default_profile": true,
+    "description": "I draw the comic xkcd",
     "following": true,
     "id": 21146468,
     "id_str": "21146468",
@@ -10591,7 +10592,8 @@
     "profile_sidebar_fill_color": "DDEEF6",
     "profile_text_color": "333333",
     "profile_use_background_image": true,
-    "screen_name": "xkcd"
+    "screen_name": "xkcd",
+    "url": "https://t.co/iHy7v4A5tY"
   },
   {
     "created_at": "Tue Jul 20 14:04:12 +0000 2010",
