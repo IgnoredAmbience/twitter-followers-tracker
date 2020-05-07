@@ -1943,7 +1943,7 @@
   },
   {
     "created_at": "Tue Mar 18 11:11:10 +0000 2014",
-    "description": "Taking time out during 'the pause'\nSometimes DJ Perfect",
+    "description": "Trainee journalist at @ExeterObserver\nSometimes DJ Perfect",
     "following": true,
     "geo_enabled": true,
     "id": 2396039828,
@@ -4458,6 +4458,7 @@
     "profile_sidebar_fill_color": "EFEFEF",
     "profile_text_color": "333333",
     "profile_use_background_image": true,
+    "protected": true,
     "screen_name": "jrothwell",
     "url": "https://t.co/sB7uTeaLqP"
   },
