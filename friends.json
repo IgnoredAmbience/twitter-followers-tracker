@@ -16806,13 +16806,13 @@
   },
   {
     "created_at": "Mon Feb 25 21:53:00 +0000 2008",
-    "description": "I am NOT @jtrothwell and, despite my best efforts, do not have a book out. @LondonNano co-ML. Olympic Park Rep @newhamcyclists. @JoroDev at work. He/him. \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+    "description": "ever-increasing \u201cyikes\u201d, ever-decreasing patience. @LondonNano co-ML and Olympic Park Rep @newhamcyclists. He/him. \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
     "following": true,
     "geo_enabled": true,
     "id": 13966122,
     "id_str": "13966122",
     "location": "Stratford, London",
-    "name": "Jonathan \u201cBack the F*ck Off\u201d Rothwell",
+    "name": "Jonathan, from behind the sofa",
     "profile_background_color": "131516",
     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
     "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
@@ -16825,7 +16825,6 @@
     "profile_sidebar_fill_color": "EFEFEF",
     "profile_text_color": "333333",
     "profile_use_background_image": true,
-    "protected": true,
     "screen_name": "jrothwell",
     "url": "https://t.co/sB7uTeaLqP"
   },
