@@ -7872,12 +7872,12 @@
   },
   {
     "created_at": "Sat Apr 26 19:09:53 +0000 2008",
-    "description": "Observer of internet cultures & social behavior around technology, currently a PM by day and COVID tweeting 24/7",
+    "description": "Observer of internet cultures & social behavior around technology, currently an a11y PM by day and #NYCPPE + @bedstuystrong by night",
     "following": true,
     "geo_enabled": true,
     "id": 14550221,
     "id_str": "14550221",
-    "location": "Animal Crossing",
+    "location": "Brooklyn, NY",
     "name": "Chris Xu",
     "profile_background_color": "FFFFFF",
     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
@@ -16596,6 +16596,7 @@
     "profile_sidebar_fill_color": "DAECF4",
     "profile_text_color": "663B12",
     "profile_use_background_image": true,
+    "protected": true,
     "screen_name": "davidallengreen",
     "url": "https://t.co/J4YtCGlkFD"
   },
