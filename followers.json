@@ -2,6 +2,7 @@
   {
     "created_at": "Thu Mar 26 23:45:01 +0000 2020",
     "default_profile": true,
+    "following": true,
     "id": 1243323045068115970,
     "id_str": "1243323045068115970",
     "location": "London",
@@ -19,7 +20,7 @@
   },
   {
     "created_at": "Sat Feb 04 19:42:00 +0000 2017",
-    "description": "writer (see website) - euroscepticism implies eurocommunism; is now the most propitious time for revolutionary socialists to join @TheSDPUK?",
+    "description": "writer (see website) / euroscepticism implies eurocommunism / expressing @TheSDPUK's revolutionary potential through brechtian street theatre",
     "id": 827965449396744192,
     "id_str": "827965449396744192",
     "location": "Somerset, United Kingdom",
