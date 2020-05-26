@@ -16668,7 +16668,7 @@
   },
   {
     "created_at": "Sun Apr 19 21:18:53 +0000 2009",
-    "description": "writer and commentator on law and policy, small 'l' liberal",
+    "description": "writer and commentator on law and policy, small 'l' liberal - account often locked when away from Twitter",
     "following": true,
     "id": 33315010,
     "id_str": "33315010",
@@ -16686,6 +16686,7 @@
     "profile_sidebar_fill_color": "DAECF4",
     "profile_text_color": "663B12",
     "profile_use_background_image": true,
+    "protected": true,
     "screen_name": "davidallengreen",
     "url": "https://t.co/J4YtCGlkFD"
   },
