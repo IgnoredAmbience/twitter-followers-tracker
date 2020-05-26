@@ -10799,7 +10799,8 @@
     "profile_text_color": "333333",
     "profile_use_background_image": true,
     "screen_name": "xkcd",
-    "url": "https://t.co/iHy7v4A5tY"
+    "url": "https://t.co/iHy7v4A5tY",
+    "verified": true
   },
   {
     "created_at": "Tue Jul 20 14:04:12 +0000 2010",
