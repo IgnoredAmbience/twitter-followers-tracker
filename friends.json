@@ -9144,11 +9144,12 @@
   },
   {
     "created_at": "Thu Jul 10 21:10:02 +0000 2014",
+    "description": "tweets my own",
     "following": true,
     "geo_enabled": true,
     "id": 2616142770,
     "id_str": "2616142770",
-    "location": "sf",
+    "location": "san francisco",
     "name": "Ian Carroll",
     "profile_background_color": "C0DEED",
     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
