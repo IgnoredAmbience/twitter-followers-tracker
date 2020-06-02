@@ -285,6 +285,7 @@
     "profile_sidebar_fill_color": "9BAD5C",
     "profile_text_color": "43240F",
     "profile_use_background_image": true,
+    "protected": true,
     "screen_name": "spavis",
     "url": "https://t.co/8Dz3LsO9LY"
   },
