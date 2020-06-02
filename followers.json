@@ -2584,7 +2584,7 @@
   },
   {
     "created_at": "Sat Apr 12 11:34:23 +0000 2008",
-    "description": "This isn't even my final form.",
+    "description": "This isn't even my final form.\n\nOnly temporarily locked, follow requests entirely welcome.",
     "following": true,
     "geo_enabled": true,
     "id": 14368342,
@@ -2601,6 +2601,7 @@
     "profile_sidebar_fill_color": "DDEEF6",
     "profile_text_color": "333333",
     "profile_use_background_image": true,
+    "protected": true,
     "screen_name": "DRMacIver",
     "url": "https://t.co/j6RZtxUr8B"
   },
