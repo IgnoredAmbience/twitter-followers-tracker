@@ -2,6 +2,7 @@
   {
     "created_at": "Sat Aug 22 04:01:44 +0000 2009",
     "description": "What I lack in hand-eye coordination I make up for in colour coordination. \n\nshe/they",
+    "following": true,
     "id": 67809038,
     "id_str": "67809038",
     "location": "London",
@@ -82,6 +83,7 @@
   {
     "created_at": "Thu Jun 25 23:06:51 +0000 2009",
     "description": "25. Planning manager, UCL Psychology alumni.",
+    "following": true,
     "geo_enabled": true,
     "id": 50805351,
     "id_str": "50805351",
@@ -268,6 +270,7 @@
   {
     "created_at": "Sun Feb 08 13:57:19 +0000 2009",
     "description": "Returns 503 because dealing with 501s is hard. Aims to make things 200 more.\nWorld record holder in some weird niche tech things that shouldn't have records.",
+    "following": true,
     "geo_enabled": true,
     "id": 20367467,
     "id_str": "20367467",
@@ -331,6 +334,7 @@
     "created_at": "Thu Feb 19 09:58:21 +0000 2009",
     "default_profile": true,
     "description": "GIS analyst, spatial data scientist. R, Python, PostGIS,  QGIS, Git. PhD Env Sci. #cyclist  #lindyhop #nffc",
+    "following": true,
     "geo_enabled": true,
     "id": 21287004,
     "id_str": "21287004",
@@ -840,6 +844,7 @@
     "created_at": "Thu Jan 01 17:23:14 +0000 2009",
     "default_profile": true,
     "description": "Computers & science, security & theatre.  Fan of classics, @londonhackspace, and #beer.",
+    "following": true,
     "id": 18531331,
     "id_str": "18531331",
     "location": "London",
@@ -859,6 +864,7 @@
   {
     "created_at": "Fri Jul 24 20:38:29 +0000 2015",
     "description": "Signaller trying to explain a bit about the railways to the travelling public. \ud83d\ude03",
+    "following": true,
     "id": 3291091225,
     "id_str": "3291091225",
     "location": "Railway",
@@ -1216,6 +1222,7 @@
     "created_at": "Tue Apr 05 09:28:16 +0000 2011",
     "default_profile": true,
     "description": "Senior Digital Archivist @UKNatArchives, (Digital Preservation). Plus, singing, promming and bell ringing and #WWI. Own views.",
+    "following": true,
     "id": 277409211,
     "id_str": "277409211",
     "location": "London",
@@ -1298,6 +1305,7 @@
   {
     "created_at": "Fri Mar 07 16:55:11 +0000 2008",
     "description": "Turbonerd, React hacker, FOLDOC Editor-in-Chief.",
+    "following": true,
     "geo_enabled": true,
     "id": 14095842,
     "id_str": "14095842",
@@ -1424,6 +1432,7 @@
     "created_at": "Sun Oct 29 19:56:54 +0000 2017",
     "default_profile": true,
     "description": "Welcome to the 'Railway Work, Life & Death' project, exploring British & Irish railway worker accidents c.1870s-1939. Tweets by Mike Esbester.",
+    "following": true,
     "id": 924726757076471808,
     "id_str": "924726757076471808",
     "location": "United Kingdom",
@@ -1443,6 +1452,7 @@
   {
     "created_at": "Wed Feb 23 00:08:11 +0000 2011",
     "description": "Old Sidcotian, member of congregation at Bristol Cathedral, cat person and heritage rail enthusiast. Hobbies: Radio and photography. All views (not RTs) my own.",
+    "following": true,
     "id": 256257113,
     "id_str": "256257113",
     "name": "Dave Harries",
@@ -1508,6 +1518,7 @@
     "created_at": "Thu Sep 29 08:31:16 +0000 2016",
     "default_profile": true,
     "description": "Bits and bobs about the London County Council, GLC, pre- and post-1965 boroughs in London. Love municipal stuff from the past that lives on today.",
+    "following": true,
     "id": 781411003997233152,
     "id_str": "781411003997233152",
     "location": "London Borough of Treeswater",
@@ -1570,6 +1581,7 @@
   {
     "created_at": "Mon Dec 22 12:48:00 +0000 2008",
     "description": "Taxonomy, IA, ontologies, search. Programme chair of Taxonomy Boot Camp London. Have been on Only Connect and Mastermind",
+    "following": true,
     "id": 18306089,
     "id_str": "18306089",
     "location": "London, UK",
@@ -1589,6 +1601,7 @@
   {
     "created_at": "Wed Oct 24 12:31:20 +0000 2007",
     "description": "transport, cities, comics, loud transinclusive feminism, regularly ridiculous. Opinions mine. She/they \nEurovision content @dudepoints \nQuiz with QLL",
+    "following": true,
     "id": 9652122,
     "id_str": "9652122",
     "location": "The Big Smoke",
@@ -1674,6 +1687,7 @@
     "created_at": "Fri Nov 16 19:57:40 +0000 2018",
     "default_profile": true,
     "description": "Fluffy bitey odd-eyed Battersea-rescued-probably-Turkish-Angora cat type thing. Minoustre des Affaires Entranch\u00e8res (Britanniques).",
+    "following": true,
     "id": 1063521502757302277,
     "id_str": "1063521502757302277",
     "location": "On a boat near London",
@@ -1715,6 +1729,7 @@
   },
   {
     "created_at": "Wed Feb 17 21:05:06 +0000 2010",
+    "following": true,
     "geo_enabled": true,
     "id": 115171834,
     "id_str": "115171834",
@@ -1733,6 +1748,7 @@
   {
     "created_at": "Sat Apr 21 18:30:08 +0000 2018",
     "description": "Any pronouns \u2022 Train appreciator \u2022 Artist \u2022 Creator of the 'reallyusefulbois' sticker pack \u2022 Pacers are good boys \u2022 \n\nBEWARE OF SHITPOSTS",
+    "following": true,
     "id": 987760412165885955,
     "id_str": "987760412165885955",
     "location": "UK",
@@ -1794,6 +1810,7 @@
   {
     "created_at": "Tue Jan 20 20:29:40 +0000 2009",
     "description": "Tall. Brit. Ferroequinologist. He/him/train.",
+    "following": true,
     "geo_enabled": true,
     "id": 19255393,
     "id_str": "19255393",
@@ -1860,6 +1877,7 @@
   {
     "created_at": "Sun Apr 05 07:41:04 +0000 2009",
     "description": "Rail adventurer and writer. Latest book \u2018The Railway to Heaven\u2019 (Lanna Hall). Always carrying an espresso maker. Jelly Baby addict. FRGS.",
+    "following": true,
     "id": 28958023,
     "id_str": "28958023",
     "location": "West Sussex, England",
@@ -1925,6 +1943,7 @@
     "default_profile": true,
     "default_profile_image": true,
     "description": "The ducks of Eastnor Castle",
+    "following": true,
     "id": 1036428111326453761,
     "id_str": "1036428111326453761",
     "location": "Eastnor Castle",
@@ -2052,6 +2071,7 @@
   {
     "created_at": "Wed Feb 11 21:46:11 +0000 2009",
     "description": "Still European. Still here.",
+    "following": true,
     "id": 20631657,
     "id_str": "20631657",
     "location": "Neverwhere",
@@ -2073,6 +2093,7 @@
     "created_at": "Mon Apr 18 17:07:43 +0000 2011",
     "default_profile": true,
     "description": "These tweets are the official views of Nestle, the Uzbekistan Ministry of Defence & a guy from Naples.Just some weird coincidence thing & I'm their spokesperson",
+    "following": true,
     "geo_enabled": true,
     "id": 284113797,
     "id_str": "284113797",
@@ -2093,6 +2114,7 @@
   {
     "created_at": "Fri May 11 10:12:03 +0000 2007",
     "description": "Experience Director & Creative Generalist @Inviqa. Cyclist, Photographer, Husband of @aniamendrek & Fl\u00e2neur. Creator of @LDNFilmPhoto, @cyclehireapp.",
+    "following": true,
     "geo_enabled": true,
     "id": 5956922,
     "id_str": "5956922",
@@ -2199,6 +2221,7 @@
   {
     "created_at": "Thu Feb 01 11:15:05 +0000 2007",
     "description": "CTO for many. Geo/PropTech/games. Director @osmuk, @openplaques open data, @HelloLampPost_ and @GeoSmartInfo",
+    "following": true,
     "geo_enabled": true,
     "id": 742713,
     "id_str": "742713",
@@ -2304,6 +2327,7 @@
   {
     "created_at": "Sun May 23 20:57:16 +0000 2010",
     "description": "Sometimes code, sometimes trains, sometimes other stuff, too!",
+    "following": true,
     "geo_enabled": true,
     "id": 147324808,
     "id_str": "147324808",
@@ -2327,6 +2351,7 @@
   {
     "created_at": "Sat Mar 14 21:22:50 +0000 2009",
     "description": "FRHistS. Historian of postwar reconstruction, pol/econ/urbanism, planning, architecture, landscape. Ex-intl rower. Sometime MTBer. California Golden Bear.",
+    "following": true,
     "id": 24432180,
     "id_str": "24432180",
     "location": "eastern time zone",
@@ -2538,6 +2563,7 @@
   {
     "created_at": "Tue Jul 20 14:04:12 +0000 2010",
     "description": "funk enjoyer; computer destroyer.\nhe/him.",
+    "following": true,
     "id": 168671025,
     "id_str": "168671025",
     "location": "Cambridge, England",
@@ -2581,6 +2607,7 @@
   {
     "created_at": "Wed Jun 06 11:04:04 +0000 2012",
     "description": "Wolfgirl tomboy / software snek / railway appreciator",
+    "following": true,
     "id": 600961272,
     "id_str": "600961272",
     "location": "United Kingdom",
@@ -2710,6 +2737,7 @@
     "created_at": "Fri Nov 30 09:16:15 +0000 2012",
     "default_profile": true,
     "description": "We are a volunteer-led charity, restoring two canals in Staffordshire for the benefit of the whole community. #canalrestoration #lichfieldcanal #hathertoncanal",
+    "following": true,
     "geo_enabled": true,
     "id": 980099360,
     "id_str": "980099360",
@@ -2752,6 +2780,7 @@
   {
     "created_at": "Sun Dec 10 13:53:00 +0000 2006",
     "description": "Mental health, cooking, and poo.",
+    "following": true,
     "geo_enabled": true,
     "id": 55143,
     "id_str": "55143",
@@ -2795,6 +2824,7 @@
     "created_at": "Fri Jun 30 15:35:31 +0000 2017",
     "default_profile": true,
     "description": "Follow if you want to listen to someone whose only interesting quality is transport knowledge speak about things that are not transport. (Trains: @TheOrangeOne)",
+    "following": true,
     "id": 880812046522228737,
     "id_str": "880812046522228737",
     "location": "London, England",
@@ -2814,6 +2844,7 @@
   {
     "created_at": "Sat May 13 00:26:32 +0000 2017",
     "description": "@TheOrangeOne @Tangyster @RandomBusesGirl @xcooler123 @KermitSB + more. All-encompassing bus journeys. AF tried to ride all London routes for #CatchTheBusWeek.",
+    "following": true,
     "geo_enabled": true,
     "id": 863188676133756928,
     "id_str": "863188676133756928",
@@ -3042,6 +3073,7 @@
   {
     "created_at": "Sun May 27 22:09:53 +0000 2007",
     "description": "I work in theory, and try in practice.",
+    "following": true,
     "geo_enabled": true,
     "id": 6370092,
     "id_str": "6370092",
@@ -3082,6 +3114,7 @@
   {
     "created_at": "Sun Jan 20 13:21:41 +0000 2013",
     "description": "20, 3rd yr RHUL History student \ud83c\udf93",
+    "following": true,
     "geo_enabled": true,
     "id": 1106242795,
     "id_str": "1106242795",
@@ -3229,6 +3262,7 @@
   {
     "created_at": "Sat Mar 02 11:51:26 +0000 2013",
     "description": "Web Guild Lead at @joinmettle; he/him; Ravenclaw; Chaotic neutral; Mostly harmless; Views are my own",
+    "following": true,
     "id": 1234365654,
     "id_str": "1234365654",
     "location": "London, England",
@@ -3334,6 +3368,7 @@
   {
     "created_at": "Wed Mar 25 00:35:53 +0000 2009",
     "default_profile": true,
+    "following": true,
     "id": 26375855,
     "id_str": "26375855",
     "location": "London",
@@ -3353,6 +3388,7 @@
   {
     "created_at": "Sun Feb 27 14:24:12 +0000 2011",
     "description": "Councillor for #CrystalPalace and #UpperNorwood (stephen.mann@croydon.gov.uk), Major sport nut. Most views own unless borrowed.",
+    "following": true,
     "geo_enabled": true,
     "id": 258346019,
     "id_str": "258346019",
@@ -3374,6 +3410,7 @@
   {
     "created_at": "Mon Jun 16 23:27:28 +0000 2014",
     "description": "London | Graphic Designer | Sworn enemy of Earth | Possesses the ability to recreate an exact likeness of an object or person... but first I must destroy.",
+    "following": true,
     "id": 2571802710,
     "id_str": "2571802710",
     "location": "London",
@@ -3512,6 +3549,7 @@
     "created_at": "Wed Mar 05 22:54:12 +0000 2014",
     "default_profile": true,
     "description": "Researcher @imperialcollege studying interdependence and resilience of urban infrastructure networks",
+    "following": true,
     "id": 2374457209,
     "id_str": "2374457209",
     "location": "London",
@@ -3661,6 +3699,7 @@
     "created_at": "Wed Jan 25 18:53:46 +0000 2012",
     "default_profile": true,
     "description": "Imperial College London Computer Science graduate.",
+    "following": true,
     "geo_enabled": true,
     "id": 474187098,
     "id_str": "474187098",
@@ -3682,6 +3721,7 @@
   {
     "created_at": "Fri May 23 09:40:37 +0000 2008",
     "description": "SRE for a https://t.co/f6bRUpm1GS. He/him. Also @bgekul.",
+    "following": true,
     "id": 14879702,
     "id_str": "14879702",
     "location": "London, England",
@@ -3765,6 +3805,7 @@
   {
     "created_at": "Thu Apr 25 08:31:14 +0000 2013",
     "description": "Cosplayer, gamer and digital artist ( #helyxart ). Also writes software for delicious moneys. Moira main. 100% Reylo trash.",
+    "following": true,
     "id": 1378960170,
     "id_str": "1378960170",
     "location": "London, England",
@@ -3918,6 +3959,7 @@
   {
     "created_at": "Sat Dec 31 06:09:20 +0000 2011",
     "description": "Formal Verification (PhD in CS) + Climbing enthusiast\n| Senior Research Consultant verifying safety-critical systems \ud83d\udc69\ud83c\udffd\u200d\ud83d\udcbb(\u2622\ufe0f\ud83d\ude84\u2708\ufe0f\ud83d\ude97).",
+    "following": true,
     "geo_enabled": true,
     "id": 451240433,
     "id_str": "451240433",
@@ -3986,6 +4028,7 @@
   {
     "created_at": "Tue Feb 04 18:08:41 +0000 2014",
     "description": "Mathematician, pianist, human Citymapper, wombling free. One of those twenty somethings. Known for buses, also uses trains. Runs @Zone1Bracket.",
+    "following": true,
     "id": 2327516587,
     "id_str": "2327516587",
     "location": "Transport stuff is suspended",
@@ -4006,6 +4049,7 @@
   {
     "created_at": "Sun Jan 18 22:46:42 +0000 2009",
     "default_profile": true,
+    "following": true,
     "id": 19161130,
     "id_str": "19161130",
     "location": "Oxford",
@@ -4091,6 +4135,7 @@
   {
     "created_at": "Wed Feb 12 09:49:34 +0000 2014",
     "default_profile": true,
+    "following": true,
     "id": 2340069962,
     "id_str": "2340069962",
     "name": "Chris Brown",
@@ -4110,6 +4155,7 @@
   {
     "created_at": "Thu Apr 02 18:48:14 +0000 2009",
     "description": "Full-time civil servant and part-time masters student @KingsCollegeLon \nRetweets don't mean I agree and all views my own",
+    "following": true,
     "id": 28394172,
     "id_str": "28394172",
     "location": "London",
