@@ -4907,7 +4907,7 @@
     "id": 164279727,
     "id_str": "164279727",
     "location": "London",
-    "name": "Sonja, a cat #BlackLivesMatter // \u2694\ufe0f\ud83d\udee1",
+    "name": "Sonja, a cat // \u2694\ufe0f\ud83d\udee1",
     "profile_background_color": "ACDED6",
     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
     "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
@@ -16696,7 +16696,7 @@
   },
   {
     "created_at": "Sun Apr 19 21:18:53 +0000 2009",
-    "description": "commentator on law and policy; non-partisan, small 'l' liberal; contributing editor @FT; columnist @prospect_uk; blogger @law_and_policy",
+    "description": "Commentator on law and policy; non-partisan, small 'l' liberal; contributing editor @FT; columnist @prospect_uk; blogger @law_and_policy.\n\nAccount often locked.",
     "following": true,
     "id": 33315010,
     "id_str": "33315010",
@@ -16714,6 +16714,7 @@
     "profile_sidebar_fill_color": "DAECF4",
     "profile_text_color": "663B12",
     "profile_use_background_image": true,
+    "protected": true,
     "screen_name": "davidallengreen",
     "url": "https://t.co/J4YtCGlkFD"
   },
