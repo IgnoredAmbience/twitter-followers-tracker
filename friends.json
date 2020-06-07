@@ -5690,7 +5690,7 @@
   },
   {
     "created_at": "Wed Feb 23 00:08:11 +0000 2011",
-    "description": "Old Sidcotian, member of congregation at Bristol Cathedral, cat person and heritage rail enthusiast. Hobbies: Radio and photography. All views (not RTs) my own.",
+    "description": "Cat person and heritage rail enthusiast. Hobbies: Radio and photography. All views (not RTs) my own.",
     "following": true,
     "id": 256257113,
     "id_str": "256257113",
@@ -16693,6 +16693,7 @@
     "profile_sidebar_fill_color": "DAECF4",
     "profile_text_color": "663B12",
     "profile_use_background_image": true,
+    "protected": true,
     "screen_name": "davidallengreen",
     "url": "https://t.co/J4YtCGlkFD"
   },
