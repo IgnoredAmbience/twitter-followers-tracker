@@ -16693,7 +16693,6 @@
     "profile_sidebar_fill_color": "DAECF4",
     "profile_text_color": "663B12",
     "profile_use_background_image": true,
-    "protected": true,
     "screen_name": "davidallengreen",
     "url": "https://t.co/J4YtCGlkFD"
   },
@@ -18948,7 +18947,7 @@
   },
   {
     "created_at": "Tue Aug 09 19:17:06 +0000 2011",
-    "description": "Python coder, amateur cellist, very amateur trombonist, and Pok\u00e9mon Goer",
+    "description": "Python coder, amateur cellist, very amateur trombonist, he/him",
     "following": true,
     "geo_enabled": true,
     "id": 351806477,
