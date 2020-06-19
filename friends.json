@@ -36,7 +36,8 @@
     "profile_sidebar_border_color": "000000",
     "profile_sidebar_fill_color": "000000",
     "profile_text_color": "000000",
-    "screen_name": "SachaAyoun"
+    "screen_name": "SachaAyoun",
+    "url": "https://t.co/KZc7u9YstT"
   },
   {
     "created_at": "Tue Nov 22 12:17:02 +0000 2011",
@@ -11587,6 +11588,7 @@
     "created_at": "Thu Aug 10 08:40:36 +0000 2017",
     "description": "Chairman, @NetworkRail and @LondonLegacy",
     "following": true,
+    "geo_enabled": true,
     "id": 895565532379758593,
     "id_str": "895565532379758593",
     "name": "Sir Peter Hendy CBE",
