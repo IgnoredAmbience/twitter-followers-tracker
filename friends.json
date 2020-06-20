@@ -6243,7 +6243,7 @@
   },
   {
     "created_at": "Thu May 26 17:51:14 +0000 2011",
-    "description": "canal boater, church bellringer, photographer and walker",
+    "description": "canal boater, church bellringer, photographer, walker and cyclist.",
     "following": true,
     "geo_enabled": true,
     "id": 305719017,
@@ -9189,13 +9189,13 @@
   },
   {
     "created_at": "Mon Jan 11 22:17:44 +0000 2016",
-    "description": "face of Southwark ~ jondrette girl ~ award winning keeper of trains (instructing) ~ unapologetic leftie, very sweary ~ 27 ~ isfp ~ bi ~ she/her ~ https://t.co/6wuQT5GzfH",
+    "description": "face of Southwark ~ jondrette girl ~ award winning keeper of trains (instructing) ~ unapologetic leftie, very sweary ~ 27 ~ isfp ~ bi ~ she/her ~ https://t.co/ieJyFrd3vP",
     "following": true,
     "geo_enabled": true,
     "id": 4778189541,
     "id_str": "4778189541",
     "location": "London, England",
-    "name": "Charlotte Jessica \ud83e\udddc\ud83c\udffb\u200d\u2640\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+    "name": "Charlotte Jessica \ud83e\udddc\ud83c\udffb\u200d\u2640\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f",
     "profile_background_color": "000000",
     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
     "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
@@ -16284,7 +16284,6 @@
     "profile_sidebar_fill_color": "95E8EC",
     "profile_text_color": "3C3940",
     "profile_use_background_image": true,
-    "protected": true,
     "screen_name": "MattGrayYES",
     "url": "https://t.co/I8ajc4NMQS"
   },
