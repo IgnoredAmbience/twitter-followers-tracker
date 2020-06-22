@@ -12253,12 +12253,12 @@
   },
   {
     "created_at": "Tue May 14 12:46:32 +0000 2013",
-    "description": "A total service provider of railway systems including rolling stock, signalling, maintenance and digital solutions across the globe \ud83d\ude85\ud83d\udc68\u200d\ud83c\udfed\ud83d\udc69\u200d\ud83c\udfed",
+    "description": "Working to contribute to society through the development of superior, original technology and products that power sustainable connectivity. Tweets in English \ud83d\ude85",
     "following": true,
     "id": 1427752094,
     "id_str": "1427752094",
     "location": "London",
-    "name": "Hitachi Rail",
+    "name": "Hitachi Rail (ENG)",
     "profile_background_color": "ABB8C2",
     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
     "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
@@ -16764,7 +16764,6 @@
     "profile_sidebar_fill_color": "DAECF4",
     "profile_text_color": "663B12",
     "profile_use_background_image": true,
-    "protected": true,
     "screen_name": "davidallengreen",
     "url": "https://t.co/J4YtCGlkFD"
   },
