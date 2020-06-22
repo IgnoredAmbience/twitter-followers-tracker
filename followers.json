@@ -1,5 +1,27 @@
 [
   {
+    "created_at": "Wed Mar 21 17:23:44 +0000 2007",
+    "description": "Tech operations at @irccloud, festival operations at @emfcamp.\n \nAlso: @openinframap, @dscovr_epic, @limehouselabs, @dsn_status, @infraclub\n(he/him)",
+    "following": true,
+    "geo_enabled": true,
+    "id": 1772031,
+    "id_str": "1772031",
+    "location": "London, UK",
+    "name": "Russ Garrett",
+    "profile_background_color": "020040",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1772031/1455850961",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000797728656/72745e770d8aeeccba4969dadb05580b_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000797728656/72745e770d8aeeccba4969dadb05580b_normal.jpeg",
+    "profile_link_color": "0000FF",
+    "profile_sidebar_border_color": "87BC44",
+    "profile_sidebar_fill_color": "E0FF92",
+    "profile_text_color": "000000",
+    "screen_name": "russss",
+    "url": "https://t.co/DdheNr5gLg"
+  },
+  {
     "created_at": "Thu Sep 02 22:47:22 +0000 2010",
     "description": "Formerly of @NETTram, now on \ud83d\udfe1 trains with Network Rail. I like trains, and trams. :P (He/Him)",
     "following": true,
