@@ -9471,7 +9471,7 @@
   {
     "created_at": "Tue Feb 27 18:17:33 +0000 2007",
     "default_profile": true,
-    "description": "Geo & Web Developer in London with an interest in OpenStreetMap and all things geographic. I do Drupal work too. I enjoy photography, when I get the chance.",
+    "description": "Geo & Web Developer in London. My Twitter feed is mostly photography nowadays.",
     "following": true,
     "geo_enabled": true,
     "id": 798739,
@@ -16781,6 +16781,7 @@
     "profile_sidebar_fill_color": "DAECF4",
     "profile_text_color": "663B12",
     "profile_use_background_image": true,
+    "protected": true,
     "screen_name": "davidallengreen",
     "url": "https://t.co/J4YtCGlkFD"
   },
