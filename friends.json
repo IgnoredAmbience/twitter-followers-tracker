@@ -4354,6 +4354,29 @@
     "url": "https://t.co/wbi9Z8QpOX"
   },
   {
+    "created_at": "Wed Nov 11 23:38:37 +0000 2015",
+    "default_profile": true,
+    "description": "I am Zelda the cat. Hunter of house flies and keeper of string. Easily startled. Often caught staring. Author of book.",
+    "following": true,
+    "id": 4167213255,
+    "id_str": "4167213255",
+    "location": "London, England",
+    "name": "Curious Zelda",
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/4167213255/1584383278",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/867761095909543937/hL_NQ7AZ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/867761095909543937/hL_NQ7AZ_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "screen_name": "CuriousZelda",
+    "url": "https://t.co/wbi9Z8QpOX"
+  },
+  {
     "created_at": "Wed Sep 13 09:17:58 +0000 2017",
     "default_profile": true,
     "description": "Research news and insights from @UkNatArchives. Fulfilling our role as an Independent Research Organisation.",
@@ -16799,6 +16822,7 @@
     "profile_sidebar_fill_color": "DAECF4",
     "profile_text_color": "663B12",
     "profile_use_background_image": true,
+    "protected": true,
     "screen_name": "davidallengreen",
     "url": "https://t.co/J4YtCGlkFD"
   },
