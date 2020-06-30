@@ -6592,7 +6592,7 @@
   },
   {
     "created_at": "Sat Oct 01 08:47:22 +0000 2016",
-    "description": "I\u2019m a narrowboat owner and have a black lab called Molly. I work for Victron Energy and live off grid as a continuous cruiser on my boat.",
+    "description": "I work for Victron Energy B.V. as a video producer filming installs and off-grid living. I also have a black labrador called Molly.",
     "following": true,
     "geo_enabled": true,
     "id": 782139833049382912,
@@ -6608,8 +6608,7 @@
     "profile_sidebar_border_color": "000000",
     "profile_sidebar_fill_color": "000000",
     "profile_text_color": "000000",
-    "screen_name": "journeyjono",
-    "url": "https://t.co/mpD6NZhxVf"
+    "screen_name": "journeyjono"
   },
   {
     "created_at": "Thu May 13 10:12:56 +0000 2010",
@@ -14903,30 +14902,6 @@
     "profile_use_background_image": true,
     "screen_name": "FakeUnicode",
     "url": "https://t.co/ulmuvv5k4c"
-  },
-  {
-    "created_at": "Thu Oct 13 11:15:11 +0000 2011",
-    "default_profile": true,
-    "description": "SF author, he/him. Next novel: DEAD LIES DREAMING, October 27th.(Resident of Edinburgh, Scotland, but \"Germany\" blocks Nazi bots.)",
-    "following": true,
-    "id": 390039185,
-    "id_str": "390039185",
-    "location": "Berlin, Germany",
-    "name": "Charlie Stross",
-    "profile_background_color": "C0DEED",
-    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/390039185/1589541162",
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1260928576771088385/PbYpKkCF_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1260928576771088385/PbYpKkCF_normal.jpg",
-    "profile_link_color": "1DA1F2",
-    "profile_sidebar_border_color": "C0DEED",
-    "profile_sidebar_fill_color": "DDEEF6",
-    "profile_text_color": "333333",
-    "profile_use_background_image": true,
-    "screen_name": "cstross",
-    "url": "https://t.co/9539W77EFV",
-    "verified": true
   },
   {
     "created_at": "Sat Jun 30 15:42:50 +0000 2012",
