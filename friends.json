@@ -1,5 +1,28 @@
 [
   {
+    "created_at": "Mon Feb 17 00:32:18 +0000 2014",
+    "description": "Brutalism & Other Stuff\nEnquiries \u2014 info@thisbrutalhouse.com\nPeter Chadwick\u2014 Graphic Designer & Design Educator",
+    "following": true,
+    "geo_enabled": true,
+    "id": 2347646468,
+    "id_str": "2347646468",
+    "location": "Walthamstow \u2014 London \u2014 Europe",
+    "name": "This Brutal House",
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2347646468/1499896225",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/885255706991099904/snSLAyT9_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/885255706991099904/snSLAyT9_normal.jpg",
+    "profile_link_color": "ABB8C2",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "screen_name": "BrutalHouse",
+    "url": "https://t.co/FQ65BYPbTC"
+  },
+  {
     "created_at": "Mon Jan 17 02:51:39 +0000 2011",
     "description": "Chair, UCSF Dept of Medicine. Career: What happens when a poli sci major becomes an academic physician. Latest book: The Digital Doctor: Hope, Hype & Harm...",
     "following": true,
@@ -2320,7 +2343,7 @@
   {
     "created_at": "Tue Jan 31 13:35:47 +0000 2012",
     "default_profile": true,
-    "description": "Former Magazine Editor and Professional Photographer, now Hornby's Researcher. Lifelong Ipswich Town FC supporter and follower of RTFC, the 'Crows'.",
+    "description": "Hornby's Researcher, lifelong Ipswich Town FC supporter and follower of RTFC, the 'Crows'. All views are my own & not necessarily in line with Hornby branding!",
     "following": true,
     "geo_enabled": true,
     "id": 479522635,
