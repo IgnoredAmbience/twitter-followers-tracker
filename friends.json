@@ -1,5 +1,27 @@
 [
   {
+    "created_at": "Tue Nov 26 03:50:54 +0000 2013",
+    "default_profile": true,
+    "description": "Punctilious internet killjoy debunks fake viral images and attributes uncredited real ones. Not actually a cat.",
+    "following": true,
+    "id": 2215067640,
+    "id_str": "2215067640",
+    "location": "Halifax, Nova Scotia",
+    "name": "PicPedant",
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2215067640/1394133946",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1260610236190203904/USkbnQ2Y_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1260610236190203904/USkbnQ2Y_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "screen_name": "PicPedant"
+  },
+  {
     "created_at": "Mon Feb 17 00:32:18 +0000 2014",
     "description": "Brutalism & Other Stuff\nEnquiries \u2014 info@thisbrutalhouse.com\nPeter Chadwick\u2014 Graphic Designer & Design Educator",
     "following": true,
