@@ -16801,7 +16801,7 @@
   },
   {
     "created_at": "Sun Apr 19 21:18:53 +0000 2009",
-    "description": "Commentator on law and policy.\nAt @FT, @prospect_uk, and elsewhere.",
+    "description": "Commentator on law and policy.\nAt @FT, @prospect_uk, and elsewhere.\n\nAccount sometimes locked.",
     "following": true,
     "id": 33315010,
     "id_str": "33315010",
@@ -16819,6 +16819,7 @@
     "profile_sidebar_fill_color": "DAECF4",
     "profile_text_color": "663B12",
     "profile_use_background_image": true,
+    "protected": true,
     "screen_name": "davidallengreen",
     "url": "https://t.co/J4YtCGlkFD"
   },
