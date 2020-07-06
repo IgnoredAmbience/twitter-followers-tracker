@@ -399,6 +399,7 @@
     "created_at": "Sun Dec 15 18:08:28 +0000 2019",
     "default_profile": true,
     "description": "Hello it\u2019s Ned here from Ned\u2019s Trains! I\u2019m now on Twitter giving updates on where I am and what I\u2019m doing!",
+    "geo_enabled": true,
     "id": 1206274761963266049,
     "id_str": "1206274761963266049",
     "location": "Warrington, England",
