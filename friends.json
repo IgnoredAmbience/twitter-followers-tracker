@@ -13541,7 +13541,7 @@
   },
   {
     "created_at": "Sat Feb 04 13:46:57 +0000 2017",
-    "description": "The best medieval King out there. I'm the bretwalda. The bestwalda. I've got great swords, everyone says so. Make Mercia Great Again. Great thoughts, all my own",
+    "description": "The best medieval King out there. I'm the bretwalda. The bestwalda. Make Mercia Great Again. Great thoughts, all my own. Lord/Your Majesty",
     "following": true,
     "id": 827876098595766272,
     "id_str": "827876098595766272",
@@ -16777,7 +16777,6 @@
     "profile_sidebar_fill_color": "DAECF4",
     "profile_text_color": "663B12",
     "profile_use_background_image": true,
-    "protected": true,
     "screen_name": "davidallengreen",
     "url": "https://t.co/J4YtCGlkFD"
   },
