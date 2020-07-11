@@ -1,5 +1,26 @@
 [
   {
+    "created_at": "Thu Mar 29 09:22:26 +0000 2018",
+    "description": "As heard on BBC R2 & R4. Lives beside the K&A. Interested in history of inland waterways and walking along canals (especially if dogs and pubs are involved).",
+    "following": true,
+    "geo_enabled": true,
+    "id": 979287655790850050,
+    "id_str": "979287655790850050",
+    "location": "South East, England",
+    "name": "Canal Boy",
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/979287655790850050/1522315587",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/979289293201068032/9Z0I_YhP_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/979289293201068032/9Z0I_YhP_normal.jpg",
+    "profile_link_color": "F00000",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "screen_name": "iamcanalboy"
+  },
+  {
     "created_at": "Mon Mar 29 13:42:44 +0000 2010",
     "description": "Young Rail Professionals - the professional network for young people in the rail industry - get involved for networking, career development, be an ambassador.",
     "following": true,
@@ -18922,7 +18943,7 @@
   },
   {
     "created_at": "Thu May 28 17:51:45 +0000 2009",
-    "description": "maker, artist, photographer. previously of facebook, codecademy, apple.",
+    "description": "maker, artist, photographer. previously of facebook, codecademy, apple. described as \u2018a diamond\u2019 by @RomeshRanga",
     "following": true,
     "geo_enabled": true,
     "id": 43158454,
