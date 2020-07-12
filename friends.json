@@ -1,7 +1,7 @@
 [
   {
     "created_at": "Tue May 27 15:54:27 +0000 2008",
-    "description": "Welcome to our official Twitter. \nSupport \u27a1\ufe0f @UbisoftSupport",
+    "description": "Welcome to our official Twitter!\nSupport \ud83d\udc49 @UbisoftSupport",
     "following": true,
     "geo_enabled": true,
     "id": 14922225,
@@ -15685,6 +15685,7 @@
     "profile_sidebar_fill_color": "252429",
     "profile_text_color": "666666",
     "profile_use_background_image": true,
+    "protected": true,
     "screen_name": "ProfBrianCox",
     "url": "https://t.co/rotIbrT0ju",
     "verified": true
