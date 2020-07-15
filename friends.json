@@ -2438,7 +2438,7 @@
     "profile_background_color": "CCCCCC",
     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
     "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/46358463/1594030679",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/46358463/1594804610",
     "profile_image_url": "http://pbs.twimg.com/profile_images/1278605786948816896/oB35IDDD_normal.png",
     "profile_image_url_https": "https://pbs.twimg.com/profile_images/1278605786948816896/oB35IDDD_normal.png",
     "profile_link_color": "006C56",
@@ -2451,7 +2451,7 @@
   },
   {
     "created_at": "Mon Apr 04 18:07:48 +0000 2011",
-    "description": "PhD student in Computer Science",
+    "description": "Computer Science PhD student at Imperial College London",
     "following": true,
     "id": 277101802,
     "id_str": "277101802",
@@ -2468,7 +2468,8 @@
     "profile_sidebar_fill_color": "FFFFFF",
     "profile_text_color": "EB071A",
     "profile_use_background_image": true,
-    "screen_name": "gabi__cs"
+    "screen_name": "gabi__cs",
+    "url": "https://t.co/gSwDvFhoDl"
   },
   {
     "created_at": "Wed May 16 10:39:41 +0000 2012",
@@ -10273,9 +10274,9 @@
     "profile_background_color": "C0DEED",
     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
     "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1129361750/1588249141",
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1243466478663262208/Re8-Xtob_normal.png",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1243466478663262208/Re8-Xtob_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1129361750/1594806482",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1283337267730407426/xDyUpced_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1283337267730407426/xDyUpced_normal.jpg",
     "profile_link_color": "1DA1F2",
     "profile_sidebar_border_color": "C0DEED",
     "profile_sidebar_fill_color": "DDEEF6",
