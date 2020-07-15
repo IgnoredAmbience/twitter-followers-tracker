@@ -460,7 +460,7 @@
   },
   {
     "created_at": "Mon Apr 04 18:07:48 +0000 2011",
-    "description": "PhD student in Computer Science",
+    "description": "Computer Science PhD student at Imperial College London",
     "following": true,
     "id": 277101802,
     "id_str": "277101802",
@@ -477,7 +477,8 @@
     "profile_sidebar_fill_color": "FFFFFF",
     "profile_text_color": "EB071A",
     "profile_use_background_image": true,
-    "screen_name": "gabi__cs"
+    "screen_name": "gabi__cs",
+    "url": "https://t.co/gSwDvFhoDl"
   },
   {
     "created_at": "Thu Feb 19 09:58:21 +0000 2009",
