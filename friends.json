@@ -4860,27 +4860,6 @@
     "verified": true
   },
   {
-    "created_at": "Thu Jul 10 14:31:59 +0000 2014",
-    "following": true,
-    "geo_enabled": true,
-    "id": 2615591954,
-    "id_str": "2615591954",
-    "name": "objmag1c",
-    "profile_background_color": "000000",
-    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
-    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
-    "profile_background_tile": true,
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2615591954/1572356334",
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1116534582323683330/yPhLqgaJ_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1116534582323683330/yPhLqgaJ_normal.jpg",
-    "profile_link_color": "000000",
-    "profile_sidebar_border_color": "000000",
-    "profile_sidebar_fill_color": "000000",
-    "profile_text_color": "000000",
-    "protected": true,
-    "screen_name": "objmag1c"
-  },
-  {
     "created_at": "Thu Feb 01 11:15:05 +0000 2007",
     "description": "CTO for many. Geo/PropTech/games. Director @osmuk, @openplaques open data, @HelloLampPost_ and @GeoSmartInfo",
     "following": true,
