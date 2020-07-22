@@ -16531,7 +16531,7 @@
   },
   {
     "created_at": "Tue Sep 09 10:43:01 +0000 2014",
-    "description": "Mobility Program Director @Committee4Syd | Transport Researcher on Driverless Futures? @UCL | Transport governance PhD research @UCL | Advisor @SMCommission",
+    "description": "Mobility Research & Policy Director @Committee4Syd | Transport researcher on Driverless Futures? @UCL | Transport governance PhD @UCL | Advisor @SMCommission",
     "following": true,
     "geo_enabled": true,
     "id": 2799657116,
@@ -16680,6 +16680,7 @@
     "profile_sidebar_fill_color": "DAECF4",
     "profile_text_color": "663B12",
     "profile_use_background_image": true,
+    "protected": true,
     "screen_name": "davidallengreen",
     "url": "https://t.co/J4YtCGlkFD"
   },
