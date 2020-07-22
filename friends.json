@@ -251,7 +251,7 @@
   },
   {
     "created_at": "Wed Sep 09 11:07:08 +0000 2009",
-    "description": "Politics & investigations editor for the Manchester Evening News. \u2018Cynical\u2019 - Boris Johnson. North Poll election podcast: https://t.co/tzHZqdN9gF",
+    "description": "Politics & investigations editor for the Manchester Evening News. \u2018Cynical\u2019 - Boris Johnson. Manchester Memo newsletter: https://t.co/7PdBJ1ODUI",
     "following": true,
     "geo_enabled": true,
     "id": 72827013,
@@ -16678,6 +16678,7 @@
     "profile_sidebar_fill_color": "DAECF4",
     "profile_text_color": "663B12",
     "profile_use_background_image": true,
+    "protected": true,
     "screen_name": "davidallengreen",
     "url": "https://t.co/J4YtCGlkFD"
   },
