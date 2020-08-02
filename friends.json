@@ -4127,7 +4127,7 @@
     "following": true,
     "id": 20811652,
     "id_str": "20811652",
-    "location": "Queen Mary University of London & MPI-SWS",
+    "location": "Queen Mary University of London",
     "name": "mike cook",
     "profile_background_color": "000000",
     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
@@ -4139,7 +4139,8 @@
     "profile_sidebar_border_color": "000000",
     "profile_sidebar_fill_color": "000000",
     "profile_text_color": "000000",
-    "screen_name": "mtrc"
+    "screen_name": "mtrc",
+    "url": "https://t.co/Lvk1AOh4Nw"
   },
   {
     "created_at": "Thu Apr 10 10:13:48 +0000 2014",
