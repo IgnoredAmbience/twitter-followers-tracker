@@ -10063,6 +10063,7 @@
     "default_profile": true,
     "description": "All views my own",
     "following": true,
+    "geo_enabled": true,
     "id": 2612322556,
     "id_str": "2612322556",
     "location": "Bedford, England",
