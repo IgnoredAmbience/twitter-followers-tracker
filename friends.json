@@ -20863,7 +20863,6 @@
     "id": 393492450,
     "id_str": "393492450",
     "name": "SPLATS",
-    "notifications": true,
     "profile_background_color": "C0DEED",
     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
     "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
@@ -20874,7 +20873,6 @@
     "profile_sidebar_fill_color": "DDEEF6",
     "profile_text_color": "333333",
     "profile_use_background_image": true,
-    "protected": true,
     "screen_name": "splats_project"
   },
   {
