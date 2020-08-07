@@ -4340,27 +4340,6 @@
     "url": "https://t.co/mFDkzkjJ7n"
   },
   {
-    "created_at": "Wed Feb 06 18:53:39 +0000 2019",
-    "description": "Save the world's most famous bell foundry as a working foundry, NOT as a bell-themed boutique hotel!",
-    "following": true,
-    "id": 1093221197586804736,
-    "id_str": "1093221197586804736",
-    "location": "Whitechapel, London, England",
-    "name": "Save The Whitechapel Bell Foundry",
-    "profile_background_color": "000000",
-    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1093221197586804736/1549480857",
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1093226356505223168/cPItCL2x_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1093226356505223168/cPItCL2x_normal.jpg",
-    "profile_link_color": "E81C4F",
-    "profile_sidebar_border_color": "000000",
-    "profile_sidebar_fill_color": "000000",
-    "profile_text_color": "000000",
-    "screen_name": "SavetheWbf",
-    "url": "https://t.co/mFDkzkjJ7n"
-  },
-  {
     "created_at": "Fri Jan 25 12:36:40 +0000 2013",
     "description": "Tweets from the Map Room, National Library of Scotland. News, views and interesting finds for map lovers.",
     "following": true,
@@ -16686,6 +16665,7 @@
     "profile_sidebar_fill_color": "DAECF4",
     "profile_text_color": "663B12",
     "profile_use_background_image": true,
+    "protected": true,
     "screen_name": "davidallengreen",
     "url": "https://t.co/J4YtCGlkFD"
   },
