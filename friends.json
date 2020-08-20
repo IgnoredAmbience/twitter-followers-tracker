@@ -12735,6 +12735,7 @@
     "created_at": "Sun Sep 21 14:39:39 +0000 2014",
     "description": "Updates and other stuff from Britain's most popular roads and road history website, https://t.co/6DQNicH2h5. #notjustforgeeks",
     "following": true,
+    "geo_enabled": true,
     "id": 2824430785,
     "id_str": "2824430785",
     "name": "Roads.org.uk",
