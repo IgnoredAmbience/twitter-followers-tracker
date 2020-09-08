@@ -1,5 +1,27 @@
 [
   {
+    "created_at": "Fri Aug 24 07:49:05 +0000 2012",
+    "default_profile": true,
+    "description": "Think I used to be a Data Scientist, but back then they called us Excel Monkeys! Spent the last 20 odd years building some rather large computer systems.",
+    "following": true,
+    "id": 777662911,
+    "id_str": "777662911",
+    "location": "East Ridings, UK",
+    "name": "Richard",
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/777662911/1586006440",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1246426865545420802/0BB0-qJK_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1246426865545420802/0BB0-qJK_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "screen_name": "RP131"
+  },
+  {
     "created_at": "Sat Feb 08 23:45:18 +0000 2020",
     "default_profile": true,
     "description": "sometimes the posts aren\u2019t capybaras there\u2019s nothing I can do about it.",
