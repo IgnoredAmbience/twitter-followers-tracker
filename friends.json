@@ -4057,6 +4057,7 @@
   },
   {
     "created_at": "Tue Nov 29 21:23:14 +0000 2011",
+    "description": "This profile is closing. Follow @TfL",
     "following": true,
     "geo_enabled": true,
     "id": 424511479,
@@ -4073,7 +4074,7 @@
     "profile_text_color": "333333",
     "profile_use_background_image": true,
     "screen_name": "northernline",
-    "url": "https://t.co/Jf9ijry8vW",
+    "url": "https://t.co/nAGQM3XliJ",
     "verified": true
   },
   {
@@ -5805,7 +5806,7 @@
     "id": 47319664,
     "id_str": "47319664",
     "location": "London, England",
-    "name": "Transport for London \ud83d\ude37\ud83d\udc4c",
+    "name": "Transport for London",
     "profile_background_color": "F5F5F5",
     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
     "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
