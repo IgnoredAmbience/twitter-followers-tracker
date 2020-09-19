@@ -1518,7 +1518,6 @@
   },
   {
     "created_at": "Wed Jun 01 00:15:17 +0000 2011",
-    "description": "#Lizzie #Rugby #Snooker #MLB #NHL #SciFi #Horror \ud83d\udd96",
     "following": true,
     "geo_enabled": true,
     "id": 308778124,
@@ -1536,6 +1535,7 @@
     "profile_sidebar_fill_color": "252429",
     "profile_text_color": "666666",
     "profile_use_background_image": true,
+    "protected": true,
     "screen_name": "alexure81"
   },
   {
