@@ -5334,6 +5334,7 @@
     "default_profile": true,
     "description": "Sporadic retweets and little original content. Driver of Train\ud83d\ude84 Tram\ud83d\ude8b Atom\ud83c\udfce and Leaf\ud83c\udf43. \ud83c\udff3\ufe0f\u200d\ud83c\udf08\ud83c\udf08\ud83e\udd84\ud83c\uddea\ud83c\uddfa. Favourite countries\ud83c\udde8\ud83c\udded\ud83c\uddef\ud83c\uddf5\ud83c\uddf2\ud83c\udde8\ud83c\uddee\ud83c\uddf2. He/his.",
     "following": true,
+    "geo_enabled": true,
     "id": 2878531517,
     "id_str": "2878531517",
     "location": "Bristol",
