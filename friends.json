@@ -17216,6 +17216,7 @@
     "profile_sidebar_fill_color": "DAECF4",
     "profile_text_color": "663B12",
     "profile_use_background_image": true,
+    "protected": true,
     "screen_name": "davidallengreen",
     "url": "https://t.co/J4YtCGlkFD"
   },
@@ -19035,7 +19036,7 @@
   },
   {
     "created_at": "Mon Feb 21 18:43:22 +0000 2011",
-    "description": "making my hands @dynamicland1",
+    "description": "@dynamicland1",
     "following": true,
     "id": 255617445,
     "id_str": "255617445",
@@ -20653,7 +20654,7 @@
   {
     "created_at": "Tue Feb 28 11:11:09 +0000 2012",
     "default_profile": true,
-    "description": "Dad and husband. Cycling, Basketball and football fan. Charity fundraiser and volunteer. Career I keep to myself!",
+    "description": "Dad and husband. Cycling, Basketball and football fan. Proud geek of everything Superhero and Sci Fi. Charity fundraiser and volunteer.",
     "following": true,
     "geo_enabled": true,
     "id": 507227273,
