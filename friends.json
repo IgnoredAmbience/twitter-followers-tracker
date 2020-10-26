@@ -1,5 +1,25 @@
 [
   {
+    "created_at": "Tue Mar 13 09:05:10 +0000 2012",
+    "default_profile": true,
+    "default_profile_image": true,
+    "following": true,
+    "id": 523051104,
+    "id_str": "523051104",
+    "name": "gioconda",
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "screen_name": "giocondarail"
+  },
+  {
     "created_at": "Fri Apr 24 13:40:59 +0000 2009",
     "default_profile": true,
     "description": "Amateur scientist, reluctant traveller. Pet peeve: double standards. Was @GenomeBiology, now editor @SciReports; opinions are my own, RTs aren't endorsements.",
@@ -17232,6 +17252,7 @@
     "profile_sidebar_fill_color": "DAECF4",
     "profile_text_color": "663B12",
     "profile_use_background_image": true,
+    "protected": true,
     "screen_name": "davidallengreen",
     "url": "https://t.co/J4YtCGlkFD"
   },
