@@ -88,7 +88,7 @@
   {
     "created_at": "Sun Apr 28 05:31:56 +0000 2019",
     "default_profile": true,
-    "description": "Maths Undergrad at Medwards College, Cambridge Uni | Nerd | British | former child | \ud83d\udea1\ud83d\udea1\ud83d\udea1\ud83d\udea1 | AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA \n\n(She/They)",
+    "description": "Maths Undergrad at Medwards College, Cambridge Uni | Nerd | former child | \ud83c\uddec\ud83c\udde7\ud83c\uddef\ud83c\uddf5\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f\n\n(She/They)",
     "following": true,
     "id": 1122372858741698561,
     "id_str": "1122372858741698561",
@@ -103,7 +103,8 @@
     "profile_sidebar_fill_color": "DDEEF6",
     "profile_text_color": "333333",
     "profile_use_background_image": true,
-    "screen_name": "BeckyPQR"
+    "screen_name": "BeckyPQR",
+    "url": "https://t.co/xMVKhNTyEo"
   },
   {
     "created_at": "Wed May 28 13:57:04 +0000 2008",
@@ -8668,27 +8669,6 @@
     "url": "https://t.co/50lgHs3daq"
   },
   {
-    "created_at": "Mon Jan 18 14:59:50 +0000 2010",
-    "description": "I can build spaceships! he/him",
-    "following": true,
-    "id": 106113447,
-    "id_str": "106113447",
-    "location": "London, UK",
-    "name": "Jasper Wallace \ud83d\ude37",
-    "profile_background_color": "000000",
-    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/106113447/1354538286",
-    "profile_image_url": "http://pbs.twimg.com/profile_images/443910181001232384/LBLFIJiv_normal.png",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/443910181001232384/LBLFIJiv_normal.png",
-    "profile_link_color": "1DA1F2",
-    "profile_sidebar_border_color": "000000",
-    "profile_sidebar_fill_color": "000000",
-    "profile_text_color": "000000",
-    "screen_name": "jasperwallace",
-    "url": "https://t.co/50lgHs3daq"
-  },
-  {
     "created_at": "Sat Jun 06 16:49:26 +0000 2009",
     "description": "VoIP, Gadgets, Radio, Stuff. \n\n2E0SIP\n\nTweets are my own and should never be taken seriously",
     "following": true,
@@ -10213,7 +10193,7 @@
     "id": 4778189541,
     "id_str": "4778189541",
     "location": "London, England",
-    "name": "ya brat \u00e9ponine \ud83e\udddc\ud83c\udffb\u200d\u2640\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08 \ud83c\udff3\ufe0f\u200d\u26a7\ufe0f",
+    "name": "ya brat \u00e9ponine \ud83e\udddc\ud83c\udffb\u200d\u2640\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f",
     "profile_background_color": "000000",
     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
     "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
@@ -13016,28 +12996,6 @@
     "url": "https://t.co/r3zijQgznz"
   },
   {
-    "created_at": "Thu Jul 16 19:00:51 +0000 2009",
-    "description": "RAIL Head of News Print and Digital. News, pics and retweets. Views my own. Norwich City season ticket holder. richard.clinnick@bauermedia.co.uk",
-    "following": true,
-    "geo_enabled": true,
-    "id": 57414726,
-    "id_str": "57414726",
-    "location": "Norwich, England",
-    "name": "Richard Clinnick",
-    "profile_background_color": "000000",
-    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/57414726/1406583692",
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1074782327434285056/l944rbVM_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1074782327434285056/l944rbVM_normal.jpg",
-    "profile_link_color": "4A913C",
-    "profile_sidebar_border_color": "000000",
-    "profile_sidebar_fill_color": "000000",
-    "profile_text_color": "000000",
-    "screen_name": "Richard_rail",
-    "url": "https://t.co/r3zijQgznz"
-  },
-  {
     "created_at": "Wed Sep 02 19:50:14 +0000 2009",
     "description": "I created the Antimemetics Division. https://t.co/uGO0TQ3i1F",
     "following": true,
@@ -14375,7 +14333,7 @@
     "id": 827876098595766272,
     "id_str": "827876098595766272",
     "location": "Lichfield",
-    "name": "Donaeld The Unaelected?",
+    "name": "Donaeld The Unaelected",
     "profile_background_color": "000000",
     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
     "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
