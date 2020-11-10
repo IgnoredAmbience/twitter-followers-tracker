@@ -3643,7 +3643,7 @@
   {
     "created_at": "Mon Apr 22 18:15:39 +0000 2013",
     "default_profile": true,
-    "description": "Urban Designer. Maps, cities, architecture, history, public transit, typography, plants, conservation, bikes. \ud83c\udff3\ufe0f\u200d\ud83c\udf08 he/him",
+    "description": "Urban Designer. Maps, cities, architecture, history, public transit, plants, conservation, bikes. \ud83c\udff3\ufe0f\u200d\ud83c\udf08 he/him",
     "following": true,
     "id": 1372758872,
     "id_str": "1372758872",
@@ -17384,6 +17384,7 @@
     "profile_sidebar_fill_color": "DAECF4",
     "profile_text_color": "663B12",
     "profile_use_background_image": true,
+    "protected": true,
     "screen_name": "davidallengreen",
     "url": "https://t.co/J4YtCGlkFD"
   },
