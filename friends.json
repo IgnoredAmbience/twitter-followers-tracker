@@ -5502,7 +5502,6 @@
   },
   {
     "created_at": "Tue Dec 30 03:31:39 +0000 2014",
-    "description": "Robot finished posting every bird on the planet. Mostly accurate. Now posting reruns until the end of time. By @nah_solo. See below for list of birds",
     "following": true,
     "id": 2950535441,
     "id_str": "2950535441",
@@ -5517,8 +5516,7 @@
     "profile_sidebar_border_color": "000000",
     "profile_sidebar_fill_color": "000000",
     "profile_text_color": "000000",
-    "screen_name": "_everybird_",
-    "url": "https://t.co/havRZBAN0X"
+    "screen_name": "_everybird_"
   },
   {
     "created_at": "Wed May 10 21:51:03 +0000 2017",
