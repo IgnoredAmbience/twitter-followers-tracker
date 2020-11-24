@@ -1,5 +1,27 @@
 [
   {
+    "created_at": "Mon Jun 18 14:13:29 +0000 2018",
+    "description": "Conductor | Train Nerd | She/They",
+    "following": true,
+    "geo_enabled": true,
+    "id": 1008714317754261505,
+    "id_str": "1008714317754261505",
+    "location": "West Yorkshire",
+    "name": "TrainsAlex",
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1008714317754261505/1589822099",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1246210049917288450/n7r9lJ_Q_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1246210049917288450/n7r9lJ_Q_normal.jpg",
+    "profile_link_color": "FFB6C1",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "screen_name": "TrainsAlex",
+    "url": "https://t.co/ET05IbQO3P"
+  },
+  {
     "created_at": "Wed Feb 13 17:29:00 +0000 2008",
     "description": "It/it/its. Neoliberal, federalist, remoaner, engineer. Human rights abuse is quite a bad thing actually.",
     "following": true,
@@ -2494,7 +2516,7 @@
   },
   {
     "created_at": "Tue Jul 20 14:04:12 +0000 2010",
-    "description": "funk enjoyer; computer destroyer, three 0.3x engineers in a trenchcoat.\nsoftware to build robots by day, sleep deprivation by night.\nhe/him.",
+    "description": "funk enjoyer; computer destroyer; three 0.3x engineers in a trenchcoat.\nhe/him.",
     "following": true,
     "id": 168671025,
     "id_str": "168671025",
