@@ -3750,6 +3750,7 @@
   {
     "created_at": "Sun Feb 24 09:59:18 +0000 2019",
     "default_profile": true,
+    "description": "Departmental rolling stock and internal user vehicles on UK railways",
     "following": true,
     "id": 1099609708204380160,
     "id_str": "1099609708204380160",
