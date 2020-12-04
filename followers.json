@@ -5491,11 +5491,11 @@
   },
   {
     "created_at": "Tue Dec 05 00:35:27 +0000 2006",
-    "description": "CTO at @sofarsounds. \n\nPast lives: @globalstreetart, @AppsForGoodCDI, @youngrewired, @PapaSangre, @BBC, @GeekUp",
+    "description": "CTO at YardLink. Previously: @sofarsounds, @globalstreetart, @AppsForGoodCDI, @youngrewired, @PapaSangre, @BBC, @GeekUp",
     "geo_enabled": true,
     "id": 41643,
     "id_str": "41643",
-    "location": "Shoreditch, London",
+    "location": "London",
     "name": "Dan Morris",
     "profile_background_color": "B2DFDA",
     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
@@ -5508,8 +5508,7 @@
     "profile_sidebar_fill_color": "FFFFFF",
     "profile_text_color": "333333",
     "profile_use_background_image": true,
-    "screen_name": "danielmorris",
-    "url": "http://t.co/jhbwcjTY0c"
+    "screen_name": "danielmorris"
   },
   {
     "created_at": "Thu May 14 10:17:14 +0000 2009",
