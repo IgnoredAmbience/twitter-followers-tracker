@@ -4260,7 +4260,7 @@
   },
   {
     "created_at": "Mon Mar 23 21:04:36 +0000 2009",
-    "description": "News + updates from the London Borough of Sutton \ud83c\udf3f Contact us using our Report It tool:https://t.co/Z5UpTx076T",
+    "description": "News + updates from the London Borough of Sutton \ud83c\udf3f \n\nContact us using Report It: https://t.co/Z5UpTx076T\n\nSocial media terms and conditions: https://t.co/bn1m3S9juY",
     "following": true,
     "geo_enabled": true,
     "id": 26089698,
@@ -14308,8 +14308,7 @@
     "profile_sidebar_border_color": "000000",
     "profile_sidebar_fill_color": "EFEFEF",
     "profile_text_color": "333333",
-    "screen_name": "x0rz",
-    "url": "https://t.co/kXWHpfnvr3"
+    "screen_name": "x0rz"
   },
   {
     "created_at": "Thu Mar 31 12:29:00 +0000 2011",
