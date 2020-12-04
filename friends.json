@@ -1456,8 +1456,8 @@
     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
     "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/471784537/1586250489",
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1334470631761580033/BXI4YSoA_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1334470631761580033/BXI4YSoA_normal.jpg",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1334794811166109696/nt4-q4sy_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1334794811166109696/nt4-q4sy_normal.jpg",
     "profile_link_color": "F2700C",
     "profile_sidebar_border_color": "FFFFFF",
     "profile_sidebar_fill_color": "EFEFEF",
@@ -17580,7 +17580,6 @@
     "profile_sidebar_fill_color": "DAECF4",
     "profile_text_color": "663B12",
     "profile_use_background_image": true,
-    "protected": true,
     "screen_name": "davidallengreen",
     "url": "https://t.co/J4YtCGlkFD"
   },
@@ -22665,7 +22664,7 @@
   },
   {
     "created_at": "Wed Aug 22 06:44:35 +0000 2007",
-    "description": "Official twitter for Sigur R\u00f3s. Stendur \u00e6va out now. Pre-order Odin\u2019s Raven Magic.",
+    "description": "Official twitter for Sigur R\u00f3s. Our new album Odin\u2019s Raven Magic out now.",
     "following": true,
     "geo_enabled": true,
     "id": 8350382,
