@@ -1,5 +1,26 @@
 [
   {
+    "created_at": "Sun Mar 25 02:05:47 +0000 2012",
+    "default_profile": true,
+    "default_profile_image": true,
+    "following": true,
+    "id": 535989672,
+    "id_str": "535989672",
+    "location": "London, UK",
+    "name": "Chris",
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "screen_name": "PickledChris"
+  },
+  {
     "created_at": "Tue Sep 16 08:49:03 +0000 2014",
     "description": "The official account of The Duke and Duchess of Cambridge and the Royal Foundation, based at Kensington Palace.",
     "following": true,
