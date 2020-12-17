@@ -1338,7 +1338,7 @@
   },
   {
     "created_at": "Fri Apr 19 05:31:51 +0000 2013",
-    "description": "Transport Operations \ud83d\ude8f\ud83d\uddfa\ud83d\udeeb ~ Writing about everything else \ud83c\udf0d ~ 20 ~ he/him",
+    "description": "Transport Operations \ud83d\ude8f\ud83d\uddfa\ud83d\udeeb ~ Writing about everything else \ud83c\udf0d ~ he/him",
     "following": true,
     "id": 1363634988,
     "id_str": "1363634988",
@@ -1355,8 +1355,9 @@
     "profile_sidebar_fill_color": "F3F3F3",
     "profile_text_color": "333333",
     "profile_use_background_image": true,
+    "protected": true,
     "screen_name": "goldenarrw",
-    "url": "https://t.co/TIBKtiHqpM"
+    "url": "https://t.co/TIBKtiZ1hk"
   },
   {
     "created_at": "Sun Jan 20 07:05:19 +0000 2013",
@@ -4287,9 +4288,9 @@
     "profile_background_color": "000000",
     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
     "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/121258930/1604604892",
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1324396209856012289/XKEqvgvx_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1324396209856012289/XKEqvgvx_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/121258930/1608220834",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1339601381834022912/4st78WRu_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1339601381834022912/4st78WRu_normal.jpg",
     "profile_link_color": "EDAE0E",
     "profile_sidebar_border_color": "FFFFFF",
     "profile_sidebar_fill_color": "944F1B",
