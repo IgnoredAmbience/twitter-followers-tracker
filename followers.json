@@ -4298,6 +4298,28 @@
     "url": "https://t.co/Cc7jqBh6cT"
   },
   {
+    "created_at": "Wed Aug 26 21:19:36 +0000 2009",
+    "description": "embedded hardware/software",
+    "following": true,
+    "id": 69098830,
+    "id_str": "69098830",
+    "location": "London",
+    "name": "Kyle",
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/69098830/1595847218",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1287701551126056960/xvKEQSBs_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1287701551126056960/xvKEQSBs_normal.png",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "screen_name": "qfp64",
+    "url": "https://t.co/Cc7jqBh6cT"
+  },
+  {
     "created_at": "Thu Jan 10 21:04:32 +0000 2013",
     "default_profile": true,
     "default_profile_image": true,
