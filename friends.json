@@ -21775,6 +21775,7 @@
   {
     "created_at": "Fri Jan 22 16:01:39 +0000 2010",
     "default_profile": true,
+    "description": "An open source JavaScript library for creating interactive maps from any kind of geospatial data",
     "following": true,
     "geo_enabled": true,
     "id": 107448978,
@@ -21791,7 +21792,7 @@
     "profile_text_color": "333333",
     "profile_use_background_image": true,
     "screen_name": "openlayers",
-    "url": "http://t.co/dCf7eeJkQ7"
+    "url": "https://t.co/RZeArdONT1"
   },
   {
     "created_at": "Mon May 11 15:42:59 +0000 2009",
