@@ -1714,7 +1714,7 @@
   },
   {
     "created_at": "Thu Oct 14 10:57:13 +0000 2010",
-    "description": "Multi-disciplinary designer, fairweather hackspacer, and lots of other things! (she/her/they)",
+    "description": "I make things using computers. Some of them are quite good. (she/her/they)",
     "following": true,
     "id": 202578986,
     "id_str": "202578986",
@@ -11508,13 +11508,15 @@
     "profile_background_color": "000000",
     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
     "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/19553417/1609635518",
     "profile_image_url": "http://pbs.twimg.com/profile_images/630778602540396546/kjxC0joW_normal.jpg",
     "profile_image_url_https": "https://pbs.twimg.com/profile_images/630778602540396546/kjxC0joW_normal.jpg",
     "profile_link_color": "6030C0",
     "profile_sidebar_border_color": "000000",
     "profile_sidebar_fill_color": "000000",
     "profile_text_color": "000000",
-    "screen_name": "BritishNathan"
+    "screen_name": "BritishNathan",
+    "url": "https://t.co/T9nGa0VAEi"
   },
   {
     "created_at": "Wed Oct 24 12:31:20 +0000 2007",
