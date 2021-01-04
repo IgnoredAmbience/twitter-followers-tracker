@@ -7986,7 +7986,7 @@
   },
   {
     "created_at": "Thu Mar 19 12:03:34 +0000 2009",
-    "description": "Media editor at the Guardian. Get in touch about your media organisation in confidence: jim.waterson@theguardian.com WhatsApp: +447760993558 **My DMs are open**",
+    "description": "Media editor at the Guardian. Currently on leave.",
     "following": true,
     "geo_enabled": true,
     "id": 25275453,
@@ -17765,7 +17765,6 @@
     "profile_sidebar_fill_color": "DAECF4",
     "profile_text_color": "663B12",
     "profile_use_background_image": true,
-    "protected": true,
     "screen_name": "davidallengreen",
     "url": "https://t.co/J4YtCGlkFD"
   },
