@@ -1,5 +1,28 @@
 [
   {
+    "created_at": "Tue Dec 18 15:04:41 +0000 2012",
+    "description": "Public Health Regional Director for London. Passionate about health, inequalities, innovation and impact. He/Him. Following/being followed \u2260 endorsement.",
+    "following": true,
+    "geo_enabled": true,
+    "id": 1019967199,
+    "id_str": "1019967199",
+    "location": "London, England",
+    "name": "Kevin Fenton",
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1019967199/1528216406",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/699730392052539393/4OTJrTVw_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/699730392052539393/4OTJrTVw_normal.jpg",
+    "profile_link_color": "C90C0C",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "screen_name": "ProfKevinFenton",
+    "url": "https://t.co/54DvyPvQpc"
+  },
+  {
     "created_at": "Fri Jan 11 07:20:42 +0000 2019",
     "default_profile": true,
     "description": "Visiting and exploring Britain's railways, stations and people.",
