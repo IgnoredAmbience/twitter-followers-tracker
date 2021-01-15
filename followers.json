@@ -85,7 +85,7 @@
   {
     "created_at": "Fri Sep 11 22:32:30 +0000 2020",
     "default_profile": true,
-    "description": "Railway Worker \ud83d\ude8a, Interested in Photography, Signalling and Boxes,  \ud83c\udfda\ud83d\udece \ud83d\udea6. All views are my own.",
+    "description": "Railway worker in the Southern Region\ud83d\ude8a. Content is mainly related to Signalling and Boxes \ud83c\udfda\ud83d\udece \ud83d\udea6. All views are my own.",
     "following": true,
     "id": 1304548300843028480,
     "id_str": "1304548300843028480",
@@ -5404,6 +5404,7 @@
     "geo_enabled": true,
     "id": 22951370,
     "id_str": "22951370",
+    "location": "North West, England",
     "name": "Alex Kendall",
     "profile_background_color": "0F0A02",
     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
